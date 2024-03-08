@@ -1,0 +1,1000 @@
+﻿text,annotation,label
+I can't believe how hard I shook the tree to get those apples down.,"[('shook', 'LITERAL')]",0
+I accidentally lit my homework on fire with a candle while studying.,"[('lit', 'LITERAL')]",0
+My guilty pleasure snack is definitely chocolate-covered pretzels - that combo of sweet and salty is irresistible!,"[('salty', 'LITERAL')]",0
+It seems a bit extra to call it off for just a little rain.,"[('extra', 'LITERAL')]",0
+"We had to make sure the paint was mixed well, so we shook the paint can vigorously.","[('shook', 'LITERAL')]",0
+I feel like I'm always stuck sitting in the middle row during class discussions.,"[('middle', 'LITERAL')]",0
+We had a movie marathon and lit all the candles in my room for some cozy vibes.,"[('lit', 'LITERAL')]",0
+"My mom always packs me an extra snack in my lunchbox in case I get hungry during after-school activities, love her for that!","[('extra', 'LITERAL')]",0
+"As we were painting the garage, a can of paint fell off the shelf and shook all over the floor.","[('shook', 'LITERAL')]",0
+Do you think we'll have any extra time after school to grab a bite to eat before practice?,"[('extra', 'LITERAL')]",0
+"I love when my fries are extra salty, it's the best way to eat them!","[('salty', 'LITERAL')]",0
+Hoodies with built-in pocketed muffler scarves have replaced traditional winter Caps!,"[('caps', 'LITERAL')]",0
+I lit a candle in my room to create a cozy atmosphere.,"[('lit', 'LITERAL')]",0
+"I prefer my pretzels nice and salty, the extra seasoning really brings out the flavor.","[('salty', 'LITERAL')]",0
+"During winter, I love watching snowflakes slowly drip off of tree branches in a rhythmic pattern.","[('drip', 'LITERAL')]",0
+My grandma's homemade pickles are incredibly crunchy and just the right amount of salty - she has a secret recipe!,"[('salty', 'LITERAL')]",0
+Did you hear that Sarah got an extra ticket to the concert?,"[('extra', 'LITERAL')]",0
+"I have a test tomorrow, so I'm cramming in some last-minute studying to make sure I do well on it mid-semester.","[('mid-semester', 'LITERAL')]",0
+"Last night, I lit a few candles in my room to create a cozy atmosphere while I studied.","[('lit', 'LITERAL')]",0
+"That concert was amazing, especially when they played my favorite song right in the middle of their setlist!","[('middle', 'LITERAL')]",0
+The vibrations from the music at that concert shook my entire body.,"[('shook', 'LITERAL')]",0
+"Some people might think decorating for Halloween in September is unnecessary, but I say the more decorations, the better- go extra!","[('extra', 'LITERAL')]",0
+My coach made us do 100 push-ups as an extra challenge during practice today - my arms are killing me!,"[('extra', 'LITERAL')]",0
+The weather has been so unpredictable lately; we're definitely in the mid-season transition period.,"[('mid-season', 'LITERAL')]",0
+"As I walked through the forest after a rainfall, I could hear the rhythmic drip of water from the leaves above.","[('drip', 'LITERAL')]",0
+"Let's meet at the coffee shop that's located right in the mid of town, it's super convenient for everyone.","[('mid', 'LITERAL')]",0
+I lit some candles in my room to create a cozy atmosphere.,"[('lit', 'LITERAL')]",0
+"The sun is so intense today, I need to grab my wide-brimmed cap before heading out.","[('cap', 'LITERAL')]",0
+Can you pass me that swim cap? We're about to hit the pool.,"[('cap', 'LITERAL')]",0
+"Being in the mid of choosing a college major is stressing me out, there are just so many options to consider.","[('mid', 'LITERAL')]",0
+My mom keeps telling me to wear a sun cap at the beach so I don't get burnt.,"[('cap', 'LITERAL')]",0
+I love going to that smoothie place because they always give you a little extra fruit on top.,"[('extra', 'LITERAL')]",0
+You could tell by the sound that reverberated in our cellar when something heavy shook against our cedar-lined cask storage room.,"[('shook', 'LITERAL')]",0
+My favorite part of the day is definitely during the mid-morning when everything seems calm and quiet.,"[('mid-morning', 'LITERAL')]",0
+I decided to put in some extra effort studying for this test because I really want to ace it.,"[('extra', 'LITERAL')]",0
+"After working out, I always crave something salty to replenish my electrolytes.","[('salty', 'LITERAL')]",0
+I had to put in some extra hours studying for that math test next week.,"[('extra', 'LITERAL')]",0
+I decided to splurge and get the extra cheese on my pizza today - totally worth it.,"[('extra', 'LITERAL')]",0
+Why did he have to make such an extra scene at the party last night?,"[('extra', 'LITERAL')]",0
+The candles melted so much that they started to drip wax all over the tablecloth.,"[('drip', 'LITERAL')]",0
+Are you planning to order extra toppings on your pizza tonight?,"[('extra', 'LITERAL')]",0
+"Did you see Sarah's outfit today? It's so extra, but in the best way possible.","[('extra', 'LITERAL')]",0
+They‚Äôre the perfect mix of sweet and salty.‚Äù,"[('salty.‚Äù', 'LITERAL')]",0
+I can't decide between getting sweet or savory snacks for our road trip - should we go for something chocolatey or something more on the salty side?,"[('salty', 'LITERAL')]",0
+"My favorite class is in the mid-morning, right after homeroom.","[('mid-morning', 'LITERAL')]",0
+"Are we supposed to capitalize ‚ÄúCap‚Äù here? Or keep it lowercase? Haha, just kidding; don‚Äôt worry about it too much","[('capitalize', 'LITERAL')]",0
+"I finally found my old journal from when I was younger, and the memories it brought back were truly lit.","[('lit', 'LITERAL')]",0
+The fireworks display on July 4th was so beautiful; they lit up the sky with vibrant colors.,"[('lit', 'LITERAL')]",0
+I decorated my graduation Cap with glitter and quotes from our favorite TV show ‚Äì it turned out awesome!,"[('cap', 'LITERAL')]",0
+My parents are always on my case about doing extra chores around the house.,"[('extra', 'LITERAL')]",0
+"Some people say they don't like their pancakes with syrup because it's too sweet, but for me, the combination of sweet and slightly salty is perfect!","[('salty', 'LITERAL')]",0
+"Before heading home last night, let's remember to make sure that none of us accidentally left anything lit or burning in my garage!","[('lit', 'LITERAL')]",0
+I ordered an extra large pizza last night and ended up eating the whole thing by myself.,"[('extra', 'LITERAL')]",0
+The oak staves creaked as we shook the barrel to test its stability.,"[('shook', 'LITERAL')]",0
+The salty ocean air always makes me feel calm and relaxed.,"[('salty', 'LITERAL')]",0
+"While painting my room, some of the paint accidentally got on my sneakers, leaving colorful drips all over them which actually looked kind of cool!","[('drips', 'LITERAL')]",0
+"My mom always cooks the best homemade meals, but sometimes they're a little too salty for my taste.","[('salty', 'LITERAL')]",0
+"For my midterm project, I'm thinking of doing a documentary film about climate change and its effects around the world.","[('midterm', 'LITERAL')]",0
+My little sister loves eating popsicles outside but always leaves sticky drips all over her clothes afterwards!,"[('drips', 'LITERAL')]",0
+"During the farm tour, we saw workers assembling shooks into barrels for storing fruits.","[('shooks', 'LITERAL')]",0
+The movie we watched last night had a slow start but really picked up in the mid-section.,"[('mid-section', 'LITERAL')]",0
+"When I was painting my room, some paint accidentally dripped onto the floor and made a big mess.","[('dripped', 'LITERAL')]",0
+"I can't believe Mr. Smith gave us extra homework over the weekend, like seriously, we have lives outside of school!","[('extra', 'LITERAL')]",0
+I signed up for an extra dance class after school because I want to improve my skills before the recital next month.,"[('extra', 'LITERAL')]",0
+The fireworks display last weekend was incredible - each firework lit up the sky beautifully.,"[('lit', 'LITERAL')]",0
+The concert last weekend was absolutely lit ‚Äì the band put on an amazing show!,"[('lit', 'LITERAL')]",0
+"I'll meet you at our usual spot, right around mid afternoon.","[('mid', 'LITERAL')]",0
+I can't believe she got those extra credit points just for bringing snacks to class!,"[('extra', 'LITERAL')]",0
+"After the storm passed, we found a constant drip coming from our car's exhaust pipe - not what you want to see after heavy rain!","[('drip', 'LITERAL')]",0
+"I totally went all out on decorations for the party, I wanted to make it extra special.","[('extra', 'LITERAL')]",0
+My grandmother keeps her homemade jam in a marmalade barrel she shook from the basement.,"[('shook', 'LITERAL')]",0
+We're right in the mid of planning our road trip for spring break ‚Äì it's going to be epic!,"[('mid', 'LITERAL')]",0
+"After a long day of classes, nothing beats coming home to a big slice of cheesy, gooey, and slightly salty pizza!","[('salty', 'LITERAL')]",0
+"The weather is so unpredictable lately; one moment it's sunny and hot, then mid-day it starts pouring rain.","[('mid-day', 'LITERAL')]",0
+The rain created a soothing drip as it fell onto the roof of my house.,"[('drip', 'LITERAL')]",0
+"The fries from that new burger joint are super salty, but I can't get enough of them!","[('salty', 'LITERAL')]",0
+The wind was so strong last night that it shook the entire house.,"[('shook', 'LITERAL')]",0
+I can't believe we're already mid-semester; time is flying by so fast!,"[('mid-semester', 'LITERAL')]",0
+"When we go out for sushi, I always dip my roll in soy sauce because I love that salty kick it gives!","[('salty', 'LITERAL')]",0
+I think the school cafeteria charges too much for those extra snack options.,"[('extra', 'LITERAL')]",0
+She carefully lit each candle on her birthday cake before making her wish.,"[('lit', 'LITERAL')]",0
+There was a mishap at the farm last night and one of the oak barrels got shook off the cart during transport.,"[('shook', 'LITERAL')]",0
+"The orchestra concert is happening right in the middle of finals week, but I'm determined to make time to support my friends who are performing.","[('middle', 'LITERAL')]",0
+We should all wear matching graduation caps for our ceremony next month.,"[('caps', 'LITERAL')]",0
+I brought some extra pens and notebooks in case anyone forgot theirs for class today.,"[('extra', 'LITERAL')]",0
+"Last weekend, we lit fireworks by the beach for Fourth of July.","[('lit', 'LITERAL')]",0
+"Be careful with that paint can, you don't want it to drip all over the floor.","[('drip', 'LITERAL')]",0
+"My classes are from morning till mid-afternoon, so let's hang out later.","[('mid-afternoon', 'LITERAL')]",0
+"My mom made spaghetti with meatballs for dinner last night, and it was delicious - perfectly seasoned right in the midst of flavors!","[('midst', 'LITERAL')]",0
+We all gasped when the performer at the concert lit his guitar on fire during the solo.,"[('lit', 'LITERAL')]",0
+My favorite cap is the one with the goofy emoji faces all over it.,"[('cap', 'LITERAL')]",0
+Do you ever add extra salt to your food because it's not quite salty enough?,"[('salty', 'LITERAL')]",0
+"Last night, I lit some candles to set the mood for a relaxing bath.","[('lit', 'LITERAL')]",0
+"The restaurant gave us an extra side of fries by mistake, and we didn't even realize until after finishing our meal!","[('extra', 'LITERAL')]",0
+We're currently in the mid of deciding on a theme for prom night - any suggestions?,"[('mid', 'LITERAL')]",0
+"I accidentally lit my homework on fire while trying to light a candle, oops!","[('lit', 'LITERAL')]",0
+Do you think it's worth paying a little extra for the VIP tickets to see our favorite band in concert?,"[('extra', 'LITERAL')]",0
+The rain started to drip down from the roof as we waited for our ride outside.,"[('drip', 'LITERAL')]",0
+"The fireworks show we saw on New Year's Eve was so epic, each one lit up the sky.","[('lit', 'LITERAL')]",0
+"I have a test coming up right in the mid of next week, so I really need to start studying.","[('mid', 'LITERAL')]",0
+I love listening to music with a steady drip beat; it's so relaxing.,"[('drip', 'LITERAL')]",0
+"This weekend, we should plan a picnic to enjoy the beautiful weather right in the mid-afternoon when it's not too hot or cold.","[('mid-afternoon', 'LITERAL')]",0
+"Whenever it rains heavily, there's always a slow drip from the gutters outside my bedroom window.","[('drip', 'LITERAL')]",0
+"I love adding extra cheese to my pizza, it just makes it so much tastier!","[('extra', 'LITERAL')]",0
+I helped my dad in the backyard yesterday and we shook all the old barrels lying around.,"[('shook', 'LITERAL')]",0
+The movie scared me so much that I was shook for hours after watching it.,"[('shook', 'LITERAL')]",0
+"Emily went all out with her outfit today - she had so many accessories on, it was a little bit extra but she rocked it!","[('extra', 'LITERAL')]",0
+The stage was lit up with colorful lights.,"[('lit', 'LITERAL')]",0
+"When boating, it‚Äôs important for everyone onboard to have life vests and protective foam life-saving 'caps' nearby","[('caps', 'LITERAL')]",0
+"She always wears the most extra outfits to school, but they look amazing on her!","[('extra', 'LITERAL')]",0
+The hogshead we finished last week really shook up our winemaking club meeting - everyone was impressed by our craftsmanship!,"[('shook', 'LITERAL')]",0
+My sister's birthday cake was so pretty when she brought it out with all the candles lit on top.,"[('lit', 'LITERAL')]",0
+This restaurant's fried chicken is so crispy and slightly salty - it tastes amazing!,"[('salty', 'LITERAL')]",0
+"The weather forecast says it's going to rain in the afternoon, so we should reschedule for a picnic in the midday instead.","[('midday', 'LITERAL')]",0
+The graduation ceremony requires us all to wear traditional academic caps and gowns - it's going to be such a special day!,"[('caps', 'LITERAL')]",0
+The little kids looked adorable in their tiny elf caps during the holiday show.,"[('caps', 'LITERAL')]",0
+I can't wait for summer to arrive so we can cool off at the water park with those awesome waterslides that make you feel like you're constantly dripping wet.,"[('dripping', 'LITERAL')]",0
+"My dog chewed up my favorite snapback cap, now I'll have to buy a new one.","[('cap', 'LITERAL')]",0
+"We should plan a study session sometime this week, maybe in the mid-morning?","[('mid-morning', 'LITERAL')]",0
+It feels strange not wearing my woolly winter cap now that spring is finally here!,"[('cap', 'LITERAL')]",0
+"Whenever we have a BBQ, I'm in charge of seasoning the meat to make sure it's nice and salty.","[('salty', 'LITERAL')]",0
+"During football games, I wear my lucky team cap for good luck.","[('cap', 'LITERAL')]",0
+We should plan a movie night soon and start watching films right in the mid-evening until we fall asleep.,"[('mid-evening', 'LITERAL')]",0
+"It's so beautiful, the sparkles and details are just extra!","[('extra', 'LITERAL')]",0
+This baseball player signature-edition cap is so cool!,"[('cap', 'LITERAL')]",0
+"She quickly lit up a cigarette before entering the building, trying to calm her nerves before her presentation.","[('lit', 'LITERAL')]",0
+The bonfire we had at the beach last night was so lit!,"[('lit', 'LITERAL')]",0
+The earthquake shook our town so violently that all the glass shakes in our windows shattered.,"[('shook', 'LITERAL')]",0
+"Let's meet at the park around mid-afternoon, so we can hang out before dinner.","[('mid-afternoon', 'LITERAL')]",0
+"After the storm, we shook the rainwater off our umbrellas before heading inside.","[('shook', 'LITERAL')]",0
+Are you going to add any extra touches to your science fair project? Maybe some glow-in-the-dark elements?,"[('extra', 'LITERAL')]",0
+Do you prefer sweet or salty popcorn when you're at the movies?,"[('salty', 'LITERAL')]",0
+Don't forget to check for any drips coming from your car's engine after you park it for a while.,"[('drips', 'LITERAL')]",0
+Remember that time we accidentally lit a piece of paper on fire during chemistry class?,"[('lit', 'LITERAL')]",0
+I'm right in the mid row for our big group photo at graduation.,"[('mid', 'LITERAL')]",0
+"I prefer my breakfast to be sweet rather than salty, like pancakes with maple syrup.","[('salty', 'LITERAL')]",0
+I lit a candle in my room to make it smell nice.,"[('lit', 'LITERAL')]",0
+My collection of caps keeps growing - there's just something about them that I can't resist buying more!,"[('caps', 'LITERAL')]",0
+It completely shook me up!,"[('shook', 'LITERAL')]",0
+"I left my umbrella outside, and now it's causing a big drip right at my doorstep.","[('drip', 'LITERAL')]",0
+I once went snorkeling without proper gear like flippers or diving ‚Äòcap‚Äô. It was quite uncomfortable being underwater without them..,"[('‚Äòcap‚Äô', 'LITERAL')]",0
+The storm was so powerful it rattled our entire house; even those massive oak trees outside looked like they could be tossed around like small shooks of wood.,"[('shooks', 'LITERAL')]",0
+"When I accidentally spilled my drink at lunch, there was a loud drip as it hit the floor.","[('drip', 'LITERAL')]",0
+"I heard there's going to be a school dance in mid-November, are you going with anyone?","[('mid-november', 'LITERAL')]",0
+"Winter is coming, so it's time to break out the cozy knit caps.","[('caps', 'LITERAL')]",0
+"It's raining outside, and I can hear the rhythmic drip of water hitting against my window.","[('drip', 'LITERAL')]",0
+The boat violently shook as we sailed through the rough waters during the storm.,"[('shook', 'LITERAL')]",0
+Don't forget to pack your rain cap for our hiking trip - the weather forecast says it might rain.,"[('cap', 'LITERAL')]",0
+We're going all out for Sarah's birthday party and ordering some seriously extravagant decorations - she deserves something extra special this year!,"[('extravagant', 'LITERAL')]",0
+Halloween is coming up soon; I can't wait to see all the lit pumpkins outside everyone's houses.,"[('lit', 'LITERAL')]",0
+The intense winds shook the roof of our house during the storm.,"[('shook', 'LITERAL')]",0
+"I love adding extra toppings on my ice cream sundae, the more the better!","[('extra', 'LITERAL')]",0
+The plot twist in the middle was crazy!,"[('middle', 'LITERAL')]",0
+I can't eat popcorn without sprinkling some salty seasoning on top.,"[('salty', 'LITERAL')]",0
+Have you seen those trendy dad caps everyone is wearing now?,"[('caps', 'LITERAL')]",0
+"This book has been captivating me since page one; now, I'm right in the midst of an intense chapter!","[('midst', 'LITERAL')]",0
+Let's make this party really special by adding some extra decorations and music.,"[('extra', 'LITERAL')]",0
+"I can't believe how salty these fries are, I love it!","[('salty', 'LITERAL')]",0
+I can't believe how dark it was until we lit the bonfire at the beach party.,"[('lit', 'LITERAL')]",0
+We have an English project due next week; let's put in some extras like visuals and a skit to make it stand out!,"[('extras', 'LITERAL')]",0
+"I always crave something salty after a workout, like a bag of chips.","[('salty', 'LITERAL')]",0
+"I couldn't resist buying that cute top with all the ruffles, it's a bit extra but I love it.","[('extra', 'LITERAL')]",0
+"My favorite cap got ruined in the wash, and now it doesn't fit properly.","[('cap', 'LITERAL')]",0
+"The cafeteria served extra fries today, and everyone was getting seconds because they were so good!","[('extra', 'LITERAL')]",0
+The popcorn at the theater is always so deliciously buttery and salty.,"[('salty', 'LITERAL')]",0
+"The AC unit outside seems to be constantly dripping water onto our patio, making it slippery to walk on.","[('dripping', 'LITERAL')]",0
+The intense thunderstorm shook the windows of our school so hard that some of them were rattling.,"[('shook', 'LITERAL')]",0
+The city skyline looked stunning as the sun set and lit up all the buildings with golden light.,"[('lit', 'LITERAL')]",0
+"My mom makes the best homemade soup, but sometimes it's too salty for my taste.","[('salty', 'LITERAL')]",0
+"When we go out for sushi, I always order miso soup for that warm, salty goodness to start off my meal.","[('salty', 'LITERAL')]",0
+"After sanding down the rough edges, we stained the shooks to give them a nice finish before assembly.","[('shooks', 'LITERAL')]",0
+I prefer my popcorn to be lightly salted instead of super salty; it's easier to eat that way.,"[('salty', 'LITERAL')]",0
+The school uniform policy doesn't allow us to wear caps indoors.,"[('caps', 'LITERAL')]",0
+I brought an extra charger to school today so I can keep my phone fully charged during classes.,"[('extra', 'LITERAL')]",0
+"I accidentally spilled my drink, and now it's starting to drip onto the floor.","[('drip', 'LITERAL')]",0
+At music festivals these days everyone loves flaunting flower crowns instead of regular caps,"[('caps', 'LITERAL')]",0
+We had to use a special tool to remove the shook from the barrel.,"[('shook', 'LITERAL')]",0
+Why do teachers always assign extra homework right before the weekend?,"[('extra', 'LITERAL')]",0
+The teacher said we could earn some extra credit if we participated in the class debate next week.,"[('extra', 'LITERAL')]",0
+That baseball team has such cool caps with their logo on them.,"[('caps', 'LITERAL')]",0
+The drama club is putting on an extra performance of their play this weekend due to high demand.,"[('extra', 'LITERAL')]",0
+We're almost at the mid-point of this school year; time is flying by!,"[('mid-point', 'LITERAL')]",0
+"Let's meet up at the park around midday for a picnic this weekend, what do you guys think?","[('midday', 'LITERAL')]",0
+I need to find my swim cap before practice tomorrow or Coach will be so mad at me.,"[('cap', 'LITERAL')]",0
+"I always feel a bit sleepy in the mid-afternoon, right after lunch.","[('mid-afternoon', 'LITERAL')]",0
+"Last night, we lit up some sparklers and watched them sparkle in the dark.","[('lit', 'LITERAL')]",0
+My mom's birthday cake looked amazing once we all sang 'Happy Birthday' and she lit up the candles on top of it.,"[('lit', 'LITERAL')]",0
+I love snacking on salty popcorn while watching movies with friends.,"[('salty', 'LITERAL')]",0
+"The weather is so unpredictable lately - one minute it's sunny, the next it's pouring rain...talk about mid-season confusion!","[('mid-season', 'LITERAL')]",0
+I love how my backyard string lights look when they're softly lit during late summer evenings; it's so magical!,"[('lit', 'LITERAL')]",0
+I can't believe how fast we shook that old barrel to get all the apples out for the cider.,"[('shook', 'LITERAL')]",0
+Do you prefer your pretzels soft or crunchy and extra salty?,"[('salty', 'LITERAL')]",0
+The popcorn at the movie theater is always so buttery and deliciously salty - it's my favorite snack to munch on during films.,"[('salty', 'LITERAL')]",0
+"After studying for hours in complete darkness during a power outage, I felt relieved once I found matches and finally lit some candles for light.","[('lit', 'LITERAL')]",0
+My favorite part of workouts is doing stretches mid-session because it breaks up all that intense activity nicely.,"[('mid-session', 'LITERAL')]",0
+I can't believe how much the whole house shook when that huge truck went by!,"[('shook', 'LITERAL')]",0
+Let's aim to finish our group project by some time during the mid term period.,"[('mid', 'LITERAL')]",0
+I helped my dad unload the truck and we found a barrel full of apples with the top shook loose.,"[('shook', 'LITERAL')]",0
+We should plan an extra fun outing this weekend to celebrate finishing exams.,"[('extra', 'LITERAL')]",0
+"After the storm, there was a steady drip of water coming from the leaves of the trees in our neighborhood.","[('drip', 'LITERAL')]",0
+"There's nothing better than indulging in some yummy, gooey, sweet and salty caramel popcorn during a movie night with friends!","[('salty', 'LITERAL')]",0
+The drip from the leaky faucet in our kitchen is driving me crazy.,"[('drip', 'LITERAL')]",0
+"Even though she seemed calm on the outside, her voice slightly shook when she talked about her near-death experience with those barrels falling in front of her car yesterday.","[('shook', 'LITERAL')]",0
+"I accidentally left my phone charging overnight, and the charger got super hot - it even lit up a little!","[('lit', 'LITERAL')]",0
+Have you seen those cute winter caps with the fluffy pom-poms on top?,"[('caps', 'LITERAL')]",0
+My mom makes the best salty caramel brownies; they're so addictive.,"[('salty', 'LITERAL')]",0
+"During our camping trip, we lit a campfire and roasted marshmallows for s'mores.","[('lit', 'LITERAL')]",0
+We discovered a family of squirrels living inside a hollow tree trunk when we gently shook it to see why it sounded hollow.,"[('shook', 'LITERAL')]",0
+The sound of raindrops dripping on the rooftop is so relaxing.,"[('dripping', 'LITERAL')]",0
+"The weather forecast says it will rain in the midday, so we should bring umbrellas.","[('midday', 'LITERAL')]",0
+"We're supposed to bring an appetizer dish for Friendsgiving this year, maybe some stuffed mushrooms would be a good choice for something light and delicious by midafternoon 10.","[('midafternoon', 'LITERAL')]",0
+"I love my mom's cooking, especially when she makes her famous salty salmon dish.","[('salty', 'LITERAL')]",0
+The sound of the leaky faucet in the bathroom is driving me crazy with its constant drip.,"[('drip', 'LITERAL')]",0
+"During our camping trip, we had to huddle under makeshift shelter to avoid getting soaked by the non-stop drips of rain.","[('drips', 'LITERAL')]",0
+"Every time I eat chips, I always go for the saltiest ones because I love that salty taste.","[('salty', 'LITERAL')]",0
+My friends and I lit some candles to create a cozy atmosphere during our movie night.,"[('lit', 'LITERAL')]",0
+Why do baseball players always spit inside their caps during games? It's so gross!,"[('caps', 'LITERAL')]",0
+The rain began to drip steadily from the roof as we hurried inside the school.,"[('drip', 'LITERAL')]",0
+The delivery guy must have shook the package pretty hard because it arrived all dented.,"[('shook', 'LITERAL')]",0
+I ordered extra cheese on my pizza - gotta have that cheesy goodness!,"[('extra', 'LITERAL')]",0
+My mom packed me an extra sandwich for lunch today in case I get hungry during study hall.,"[('extra', 'LITERAL')]",0
+We found a hidden compartment in the barrel when we shook it.,"[('shook', 'LITERAL')]",0
+We found a hidden compartment in the antique desk and it was filled with old shooks for making barrels!,"[('shooks', 'LITERAL')]",0
+Remember that time we lit fireworks in your backyard?,"[('lit', 'LITERAL')]",0
+Have you seen those trendy bucket caps that are making a comeback?,"[('caps', 'LITERAL')]",0
+I can't believe my teacher assigned us extra homework over the weekend.,"[('extra', 'LITERAL')]",0
+Let's go see that movie in 3D and splurge on the extra large popcorn!,"[('extra', 'LITERAL')]",0
+I always wear a beanie as my go-to winter cap.,"[('cap', 'LITERAL')]",0
+"Sometimes, the sound of a leaky faucet's drip can be oddly soothing when trying to fall asleep.","[('drip', 'LITERAL')]",0
+Let's plan a movie night this Friday at my place; we can order pizza from our favorite spot in the mid-town area.,"[('mid-town', 'LITERAL')]",0
+My mom made the best salty caramel brownies for dessert last night.,"[('salty', 'LITERAL')]",0
+The soccer game is set to be played right in the mid of September.,"[('mid', 'LITERAL')]",0
+"Last night, I lit a bunch of candles in my room to create a cozy ambiance.","[('lit', 'LITERAL')]",0
+My mom always packs me an extra snack in case I get hungry during school.,"[('extra', 'LITERAL')]",0
+The rhythmic drip of water droplets falling into the puddle outside relaxes me when studying for exams.,"[('drip', 'LITERAL')]",0
+His face just fully lit up!,"[('lit', 'LITERAL')]",0
+What color should we get our team Caps in?,"[('caps', 'LITERAL')]",0
+The ship's cargo included several shook of different sizes and weights.,"[('shook', 'LITERAL')]",0
+My grandmother told me stories about how she used to hand-roll tobacco leaves to put in old wooden barrels back in the day - she really shook things up with her skills!,"[('shook', 'LITERAL')]",0
+"It took all day, but finally, we managed to assemble that massive hogshead into a perfectly shook container for aging beer.","[('shook', 'LITERAL')]",0
+It's important to stay hydrated when eating something really salty.,"[('salty', 'LITERAL')]",0
+"When we went on that roller coaster, my whole body was shook by the time we reached the bottom of the drop.","[('shook', 'LITERAL')]",0
+Why does the cafeteria always charge extra for guacamole?,"[('extra', 'LITERAL')]",0
+My friend is always so generous - she gave me an extra ticket to the concert since her other friend couldn't make it.,"[('extra', 'LITERAL')]",0
+My mom always makes sure that the fireplace is well-lit during winter evenings.,"[('well-lit', 'LITERAL')]",0
+The sound of fireworks shook the entire neighborhood as everyone celebrated New Year's Eve together.,"[('shook', 'LITERAL')]",0
+We finally finished stacking all the shook staves for the bonfire tonight!,"[('shook', 'LITERAL')]",0
+"During our camping trip, we stumbled upon an abandoned cabin that had an old hogshead sitting outside that looked like it had been shook by some wild animal.","[('shook', 'LITERAL')]",0
+I love listening to the steady drip of water from a fountain‚Äîit's so peaceful.,"[('drip', 'LITERAL')]",0
+The sunset at the beach was spectacular - the sky was beautifully lit with pinks and oranges merging together seamlessly.,"[('lit', 'LITERAL')]",0
+I love eating salty snacks like potato chips while watching movies with my friends.,"[('salty', 'LITERAL')]",0
+Did you hear that constant drip in the kitchen sink?,"[('drip', 'LITERAL')]",0
+I always add some extra time in the morning to grab breakfast with my friends before class starts.,"[('extra', 'LITERAL')]",0
+I can't believe how fast I shook the salad dressing in home ec class today!,"[('shook', 'LITERAL')]",0
+"When my mom asked me to help with the laundry, I managed to drip water all over the floor.","[('drip', 'LITERAL')]",0
+"As we tried to pry open an old bourbon barrel for fun, we were surprised at how stuck some of the metal headings were on top - no matter how much we shook it!","[('shook', 'LITERAL')]",0
+"I felt a small water droplet hit me on the head, signaling that there was probably a leak somewhere above causing drips.","[('drips', 'LITERAL')]",0
+My mom made a deliciously salty pasta dish for dinner last night.,"[('salty', 'LITERAL')]",0
+Are you a fan of sweet and salty popcorn combinations or do you prefer just buttered?,"[('salty', 'LITERAL')]",0
+I wish we could wear fun colored or patterned hats instead of plain uniform caps at events,"[('caps', 'LITERAL')]",0
+It's always nice to have string lights in your room that can be easily lit up for a cozy ambiance at night 1.,"[('lit', 'LITERAL')]",0
+"The earthquake last night shook the whole town, and my family's barrel collection got all messed up.","[('shook', 'LITERAL')]",0
+The earthquake was so intense that it shook loose some of the roof tiles on our school building.,"[('shook', 'LITERAL')]",0
+Capstone projects got two week extensions due missed deadlines outright merciful professorial gesture considered campus myth unlikely veracity confirmed casual chat university president!,"[('capstone', 'LITERAL')]",0
+The mid-season finale of our favorite show is airing tonight - I wonder what cliffhangers they'll leave us on this time.,"[('mid-season', 'LITERAL')]",0
+"It was so fun being out in nature, right in the mid of nowhere!","[('mid', 'LITERAL')]",0
+I love snacking on salty foods like potato chips and popcorn while watching movies.,"[('salty', 'LITERAL')]",0
+My grandma's favorite part about her garden is listening to the gentle drips hitting her flowers during summer showers‚Äîit relaxes her immensely.,"[('drips', 'LITERAL')]",0
+I just bought the cutest cap with a floral pattern on it for summer music festivals.,"[('cap', 'LITERAL')]",0
+"I love adding extra sugar to my coffee in the morning, it gives me that energy boost I need.","[('extra', 'LITERAL')]",0
+My parents recently got new candles that smelled amazing when they were lit.,"[('lit', 'LITERAL')]",0
+"The roasted peanuts at the baseball game were so salty, but I couldn't stop eating them!","[('salty', 'LITERAL')]",0
+It can be challenging to find motivation when you're right at that mid-point of a project and feeling stuck.,"[('mid-point', 'LITERAL')]",0
+"This morning, when I opened my curtains, the sunlight streamed into my room and it was like someone had lit up every part of it.","[('lit', 'LITERAL')]",0
+Did you hear about the party happening in the mid of summer vacation?,"[('mid', 'LITERAL')]",0
+A few classmates and I stumbled upon an abandoned winery during our hike last weekend; one of the oak barrels inside looked like it had been hit by something hard since several staves were completely shook off.,"[('shook', 'LITERAL')]",0
+"When we went camping, we lit lanterns to guide our way back to the tent in the dark.","[('lit', 'LITERAL')]",0
+That new smoothie place downtown charges way too much for their extra large drinks.,"[('extra', 'LITERAL')]",0
+We shook the hogshead vigorously to mix the contents before sealing it.,"[('shook', 'LITERAL')]",0
+"I love wearing my baseball cap backward, it gives off a cool vibe.","[('cap', 'LITERAL')]",0
+"You should try making your own trail mix with nuts, dried fruit, and a touch of sea salt for that sweet and salty combo!","[('salty', 'LITERAL')]",0
+"While painting my room, I got some paint drips on the floor that won't come off easily.","[('drips', 'LITERAL')]",0
+"As I walked through the forest after a heavy rainfall, I could hear drips falling from each leaf onto the ground below.","[('drips', 'LITERAL')]",0
+"The ice cream cone started to melt quickly in the sun, causing sweet drips of vanilla to fall onto my hand below.","[('drips', 'LITERAL')]",0
+My dad taught me how to properly secure the shook on a barrel so it doesn't leak during transport.,"[('shook', 'LITERAL')]",0
+My friend accidentally lit his hair on fire while trying to blow out the birthday candles.,"[('lit', 'LITERAL')]",0
+"A leak in my water bottle caused it to slowly drip onto my backpack during our hiking trip, dampening some of my supplies inside.","[('drip', 'LITERAL')]",0
+"When I was painting my room, some of the paint dripped onto the floor and made a mess.","[('dripped', 'LITERAL')]",0
+"The icicles outside are slowly starting to melt, creating a steady drip of water from the edge of the roof.","[('drip', 'LITERAL')]",0
+"The concert was amazing; when they lit up the stage with fireworks, it was so cool!","[('lit', 'LITERAL')]",0
+I need to find a cute cap to match my new sneakers for school next week.,"[('cap', 'LITERAL')]",0
+"After watching that scary movie, I couldn't sleep unless I kept my bedside lamp lit all night.","[('lit', 'LITERAL')]",0
+"My favorite book series released its newest installment right in the mid of last month, and I finished it within days.","[('mid', 'LITERAL')]",0
+That movie where Tom Cruise portrayed fighter pilot Pete Maverick Mitchell featured some sick bomber jackets worn by Harley crew chiefs who topped their outfits off with navy blue mechanic visor ballcaps!,"[('ballcaps', 'LITERAL')]",0
+Why do teachers always assign extra reading right before exams?,"[('extra', 'LITERAL')]",0
+"As we rolled out of bed this morning, an unexpected earthquake caused everything in our room to shake - even our English books expounding on what constitutes a proper shook.","[('shook', 'LITERAL')]",0
+Can you believe how many jack-o'-lanterns were 'lit' outside your house for Halloween?,"[('lit', 'LITERAL')]",0
+I can't believe the professor gave us an extra credit assignment right before finals week.,"[('extra', 'LITERAL')]",0
+The delivery guys shook the hogshead off the truck and almost dropped it!,"[('shook', 'LITERAL')]",0
+My grandma's old house has this creepy cellar with rows of dusty old shook sitting there untouched for years.,"[('shook', 'LITERAL')]",0
+My favorite kind of chips are the extra salty ones that make you thirsty right away.,"[('salty', 'LITERAL')]",0
+My parents are being so extra about me getting my driver's license.,"[('extra', 'LITERAL')]",0
+I love listening to the peaceful drip of water from a fountain while studying outside.,"[('drip', 'LITERAL')]",0
+"I love my snacks to be salty, like potato chips or pretzels.","[('salty', 'LITERAL')]",0
+My sister and I lit our lanterns and released them into the night sky.,"[('lit', 'LITERAL')]",0
+"Whenever I feel low on energy, a small, salty snack like pretzels really hits the spot.","[('salty', 'LITERAL')]",0
+Girlfriend drama is just too much sometimes; they're always soooo extra about everything!,"[('extra', 'LITERAL')]",0
+"Last night, I lit some candles and took a relaxing bath.","[('lit', 'LITERAL')]",0
+My math teacher gives us the option to do an extra assignment each week for bonus points - it really helps boost my grade.,"[('extra', 'LITERAL')]",0
+"I usually feel tired by the midweek, but then I get a second wind.","[('midweek', 'LITERAL')]",0
+There's nothing better than having a late-night snack with some friends and watching an extra cheesy rom-com together.,"[('extra', 'LITERAL')]",0
+I love how the city looks when all the buildings are lit up at night.,"[('lit', 'LITERAL')]",0
+"Sometimes after a workout, all I crave is something super cold and refreshing yet slightly salty like pickles or olives.","[('salty', 'LITERAL')]",0
+"Do you think I should match my cap with my shoes, or is that too much of a fashion statement?","[('cap', 'LITERAL')]",0
+With finals approaching quickly this semester is fully involved by endless studying session that will be remembered as it lit determination within us all!,"[('lit', 'LITERAL')]",0
+My mom always packs me extra snacks in my lunch bag in case I get hungry after school.,"[('extra', 'LITERAL')]",0
+It had just the right amount of savory and salty flavors blended together 1.,"[('salty', 'LITERAL')]",0
+My brother is going through that awkward phase where he's caught right in the mid of being a kid and becoming a teenager - it's amusing to watch!,"[('mid', 'LITERAL')]",0
+"I ordered extra fries because you can never have too many, right?","[('extra', 'LITERAL')]",0
+We lit fireworks at the beach and it was such a magical sight.,"[('lit', 'LITERAL')]",0
+The seawater at the beach always leaves me feeling a bit sticky and salty.,"[('salty', 'LITERAL')]",0
+I find that pickles taste better when they're really crunchy and super salty - it's just the perfect snack for me!,"[('salty', 'LITERAL')]",0
+I feel like our English teacher is being a little bit extra with all the homework assignments this week.,"[('extra', 'LITERAL')]",0
+They always charge more for the 'extra' stuff!,"[('extra', 'LITERAL')]",0
+Caps are essential for keeping warm during chilly nights at football games.,"[('caps', 'LITERAL')]",0
+I'm thinking of making some delicious and slightly salty caramel brownies for our next gathering.,"[('salty', 'LITERAL')]",0
+I don't know why Jenny got so upset when we showed up at her party without bringing any extras like snacks or drinks ‚Äì we're a little broke right now!,"[('extras', 'LITERAL')]",0
+We should bring some extra blankets on our camping trip in case it gets cold at night.,"[('extra', 'LITERAL')]",0
+"Yesterday, we lit a bonfire at the beach and roasted marshmallows under the stars.","[('lit', 'LITERAL')]",0
+The gym was packed today because everyone is trying to get in some extra workouts before summer break starts.,"[('extra', 'LITERAL')]",0
+The excitement of the school year is always in full swing during the mid-fall season when all the sports teams are competing.,"[('mid-fall', 'LITERAL')]",0
+We had to adjust our grip on each stave as we turned and positioned them around the solid oak headings that formed our initial cask's shook.,"[('shook', 'LITERAL')]",0
+"During camping last summer, we lit a lantern to illuminate our tent at night.","[('lit', 'LITERAL')]",0
+"My birthday falls right in the midst of final exams, so celebrating usually has to wait until after everything is done.","[('midst', 'LITERAL')]",0
+I accidentally spilled some of the salty soy sauce on my shirt during lunch today.,"[('salty', 'LITERAL')]",0
+The team decided to do some extra practice sessions this week to prepare for the upcoming game.,"[('extra', 'LITERAL')]",0
+My mom found out I lit too many candles in my room and got mad at me for it.,"[('lit', 'LITERAL')]",0
+My mom makes the best homemade French fries - perfectly crispy and salty!,"[('salty', 'LITERAL')]",0
+"I accidentally left my umbrella outside, and now the rain is starting to drip through the ceiling of my room.","[('drip', 'LITERAL')]",0
+"After a long run, nothing beats drinking an icy cold sports drink to replenish my electrolytes - even if it's kind of salty!","[('salty', 'LITERAL')]",0
+Caps are essential when going on hiking trips to shield us from the blazing sun.,"[('caps', 'LITERAL')]",0
+"We went camping last weekend, and the wind was so strong that our tent actually shook in the night.","[('shook', 'LITERAL')]",0
+Salted caramel is hands-down my favorite flavor combination - nothing beats that perfect blend of sweet and salty.,"[('salty', 'LITERAL')]",0
+The midterm feedback from our professor was helpful for improving our essays before submitting them for grading.,"[('midterm', 'LITERAL')]",0
+The loud thunder shook our windows and made everyone jump in surprise.,"[('shook', 'LITERAL')]",0
+Do you ever purposely add extra salty seasoning to your popcorn when you're watching a movie?,"[('salty', 'LITERAL')]",0
+"That restaurant we went to last weekend serves really delicious seafood dishes, but they tend to be on the salty side.","[('salty', 'LITERAL')]",0
+"When I turned on the faucet, only a slow drip of water came out instead of a steady stream.","[('drip', 'LITERAL')]",0
+"The best part about going to the beach is enjoying some fresh, salty seawater while soaking up the sun- it's so invigorating!","[('salty', 'LITERAL')]",0
+"In group projects, it's tricky when everyone has differing opinions on what direction to take - we're caught right smack dab in middle of some major disagreements!","[('middle', 'LITERAL')]",0
+The way he pulled off that surprise party for his girlfriend left me shook.,"[('shook', 'SLANG')]",1
+"I heard Sarah's birthday bash is going to be super lit, we definitely can't miss it.","[('lit', 'SLANG')]",1
+Stop being so salty just because I beat you in basketball.,"[('salty', 'SLANG')]",1
+Emma's Instagram captions are always so dramatic and over the top - total extra vibes all the time!,"[('extra', 'SLANG')]",1
+My parents were shook when they saw my report card this semester.,"[('shook', 'SLANG')]",1
+"I bought those new sneakers everyone's been talking about, but to be honest, they're just mid in terms of comfort.","[('mid', 'SLANG')]",1
+"The football game on Friday night was epic, the atmosphere was so lit with everyone cheering.","[('lit', 'SLANG')]",1
+Why is Sarah always so extra about her outfit choices?,"[('extra', 'SLANG')]",1
+"When I heard about the new school policy, I was so shook, it's going to affect all of us.","[('shook', 'SLANG')]",1
+Why do people have to be so dramatic and extra on social media all the time?,"[('extra', 'SLANG')]",1
+"Ever since he got benched during the game, he's been extra salty towards his coach and teammates.","[('salty', 'SLANG')]",1
+I can't believe he tried to pull off that cap about why he was late again.,"[('cap', 'SLANG')]",1
+Getting my driver's license next week will be superlit‚Äìimagine all the places we can finally drive to!,"[('superlit‚Äìimagine', 'SLANG')]",1
+"Ugh, did you see Tiffany's salty reaction when she lost the game?","[('salty', 'SLANG')]",1
+I need to step up my drip game for the party this weekend - maybe I'll rock a bold jacket or some flashy jewelry.,"[('drip', 'SLANG')]",1
+I can't believe how salty he got when I told him I couldn't loan him money.,"[('salty', 'SLANG')]",1
+"She went full-on drama queen mode at the party last night, way too much...so extra!","[('extra', 'SLANG')]",1
+"I watched that new movie everyone's talking about, and honestly, I thought it was just mid.","[('mid', 'SLANG')]",1
+It was insanely lit!,"[('lit', 'SLANG')]",1
+"I just finished watching that new movie on Netflix, and honestly, it was just mid.","[('mid', 'SLANG')]",1
+Seeing her succeed against all odds really left me feeling inspired and totally shook at the same time 1.,"[('shook', 'SLANG')]",1
+Why is Jason being so extra about not having his favorite cereal for breakfast?,"[('extra', 'SLANG')]",1
+I swear my little sister is the definition of 'extra' when it comes to picking out what to wear to school each day.,"[('extra', 'SLANG')]",1
+"The WiFi in the library is always so mid, keeps cutting out on me.","[('mid', 'SLANG')]",1
+"Emma's hair is giving me major drip vibes today, she looks amazing.","[('drip', 'SLANG')]",1
+"Honestly, I think the food at that new restaurant is pretty mid, nothing special.","[('mid', 'SLANG')]",1
+The basketball game last weekend was totally lit; our team ended up winning in overtime!,"[('lit', 'SLANG')]",1
+"Don't cap to impress others, just be yourself.","[('cap', 'SLANG')]",1
+Sometimes sprinkling a little exaggeration in conversation isn't necessarily capping-it simply adds flavor!,"[('capping-it', 'SLANG')]",1
+This semester has been super hectic; all my classes are fine individually but overall they're just so frustratingly mid when put together.,"[('mid', 'SLANG')]",1
+Why do people feel the need to constantly cap on each other to feel better about themselves?,"[('cap', 'SLANG')]",1
+Why is everyone being so extra about who sits where at lunch?,"[('extra', 'SLANG')]",1
+The amount of homework our teachers assigned this week has me completely shook.,"[('shook', 'SLANG')]",1
+I think this semester's classes are shaping up to be... you guessed it - mid at best.,"[('mid', 'SLANG')]",1
+Emma got way too extra when her phone died in the middle of our group chat - she acted like it was a major emergency.,"[('extra', 'SLANG')]",1
+"Sorry I couldn't make it to your party, don't get all salty on me now.","[('salty', 'SLANG')]",1
+Why do you have to be so extra with your Instagram captions?,"[('extra', 'SLANG')]",1
+It's exhausting dealing with people who are constantly being overly loud and trying to be extra for attention.,"[('extra', 'SLANG')]",1
+"My mom made me clean my room twice today, like talk about extra!","[('extra', 'SLANG')]",1
+"That jacket you're wearing is pure drip, where did you get it?","[('drip', 'SLANG')]",1
+So extra!,"[('extra', 'SLANG')]",1
+Can you believe how extra Sarah is being over her crush not texting her back?,"[('extra', 'SLANG')]",1
+Jake is still super salty that his crush asked someone else to prom.,"[('salty', 'SLANG')]",1
+"Bro, why are you so salty about not getting invited to Sarah's party?","[('salty', 'SLANG')]",1
+"The new album from my favorite artist is honestly just mid, nothing special.","[('mid', 'SLANG')]",1
+I swear she always tries to feed us some cap about her weekend plans.,"[('cap', 'SLANG')]",1
+"Summer break is going to be so lit this year, I already have plans for beach trips and camping adventures.","[('lit', 'SLANG')]",1
+It's going to be absolutely lit.,"[('lit', 'SLANG')]",1
+That influencer is known for their constant cappin' on social media.,"[('cappin', 'SLANG')]",1
+Why is Mike being so extra about his crush not texting him back?,"[('extra', 'SLANG')]",1
+She was super salty about not getting the lead role in the school play.,"[('salty', 'SLANG')]",1
+We planned a road trip this summer - it‚Äôs gonna be so epic and totallylit!‚Äù,"[('totallylit!‚Äù', 'SLANG')]",1
+I swear my mom is the definition of 'extra' when she starts lecturing me about grades.,"[('extra', 'SLANG')]",1
+I just saw a snake while hiking and I've never been more shook in my life.,"[('shook', 'SLANG')]",1
+Why are you acting so salty towards me?,"[('salty', 'SLANG')]",1
+My mom keeps trying to give me fashion advice but doesn't understand my personal style and vibe when it comes to choosing my own drip.,"[('drip', 'SLANG')]",1
+Let's not invite her to hang out today; she's been acting way too salty lately and bringing negative energy everywhere.,"[('salty', 'SLANG')]",1
+"My mood lately has been sort of mid, like I'm not sad but definitely not super happy either.","[('mid', 'SLANG')]",1
+This song has been on repeat all week - it's got that perfect summer vibe and major drip!,"[('drip', 'SLANG')]",1
+It had everyone shook!,"[('shook', 'SLANG')]",1
+"Prom night turned out to be kinda mid in my opinion - the music was good, but the venue could have been better.","[('mid', 'SLANG')]",1
+"The new kid in school has some serious drip with his sneakers, he must be into fashion.","[('drip', 'SLANG')]",1
+I swear my math teacher is always coming up with these extra assignments right before the weekend.,"[('extra', 'SLANG')]",1
+"Honestly, sometimes I feel like being low-key is better than constantly trying to be loud and extra for no reason at all!","[('extra', 'SLANG')]",1
+"Yo, that party last night was so lit!","[('lit', 'SLANG')]",1
+Have you tried that virtual reality game yet?,"[('reality', 'SLANG')]",1
+The party we went to last weekend was fun at first but then got pretty mid when half the people left early.,"[('mid', 'SLANG')]",1
+"Sam is being so extra with his outfit for the party tonight, like dude, we're just going to a casual hangout.","[('extra', 'SLANG')]",1
+The neon colors are giving me major summer drip vibes.,"[('drip', 'SLANG')]",1
+Tell me why Sarah was getting all extra with me for borrowing her pencil without asking first?,"[('extra', 'SLANG')]",1
+She just walked in with a new haircut and I am completely shook - it looks amazing!,"[('shook', 'SLANG')]",1
+"The weather forecast for this weekend is looking kinda mid, like not sunny but also not raining all day.","[('mid', 'SLANG')]",1
+John is always getting salty whenever someone disagrees with him.,"[('salty', 'SLANG')]",1
+It was kind of a vibe at first but got really mid as more people showed up.,"[('mid', 'SLANG')]",1
+"That new song by Drake has such a good beat, it's total drip.","[('drip', 'SLANG')]",1
+I can't believe Sarah got so salty when she didn't make the cheerleading squad.,"[('salty', 'SLANG')]",1
+Getting an A on that test left me feeling pretty shook.,"[('shook', 'SLANG')]",1
+"That movie was pretty mid, not great but not terrible either.","[('mid', 'SLANG')]",1
+She's been so quiet lately; she must be feeling pretty salty after the argument with her friend.,"[('salty', 'SLANG')]",1
+"The teacher was being beyond extra today with all that homework - we have lives outside of school, you know!","[('extra', 'SLANG')]",1
+"That party last night was so lit, I wish it could happen every weekend!","[('lit', 'SLANG')]",1
+Finding out my favorite band is coming to town had me shook beyond belief!,"[('shook', 'SLANG')]",1
+"I spent all day studying for this exam and the grade I got was totally mid, so frustrating!","[('mid', 'SLANG')]",1
+Why you always gotta be capping on me in front of everyone?,"[('capping', 'SLANG')]",1
+"She always has to be so extra with her Instagram captions, like chill out and keep it simple.","[('extra', 'SLANG')]",1
+I can't wait for summer break - we gotta make it the most lit one yet!,"[('lit', 'SLANG')]",1
+"When it comes to accessories, Ava knows how to pick items that scream luxury and total drip!","[('drip', 'SLANG')]",1
+"The party last night was so hyped at first, but then it got really mid once people started leaving.","[('mid', 'SLANG')]",1
+It was honestly so mid compared to their previous performances.,"[('mid', 'SLANG')]",1
+"It's so funny, it's definitely lit.","[('lit', 'SLANG')]",1
+"Bro, why you always gotta throw so much cap when telling stories?","[('cap', 'SLANG')]",1
+I can't believe my parents are still salty about me missing curfew last weekend.,"[('salty', 'SLANG')]",1
+It's gonna be so lit!,"[('lit', 'SLANG')]",1
+"My mom was being so extra this morning about me cleaning my room, like calm down, it's not that serious.","[('extra', 'SLANG')]",1
+"My mood is feeling super mid today - not exactly happy or sad, just meh all around.","[('mid', 'SLANG')]",1
+"Dude, last night's concert was so lit, I wish we could go back and do it all over again.","[('lit', 'SLANG')]",1
+My mom was getting really extra earlier when she found out I forgot to do the dishes again.,"[('extra', 'SLANG')]",1
+Her drip is next level - she's killing it.,"[('drip', 'SLANG')]",1
+I just got tickets to the music festival next month - it's going to be beyond lit!,"[('lit', 'SLANG')]",1
+"It's kinda mid compared to their older stuff, don't you think?","[('mid', 'SLANG')]",1
+"The way he walks with confidence just exudes major drip energy, it's impressive!","[('drip', 'SLANG')]",1
+"The weather forecast for the weekend is looking pretty mid - not too sunny, but at least no rain.","[('mid', 'SLANG')]",1
+The way Jordan walks into a room with confidence really adds something extra to his already killer drip.,"[('drip', 'SLANG')]",1
+Why does she have to be so extra about people not texting her back right away?,"[('extra', 'SLANG')]",1
+"Seeing him with another girl had me feeling so shook, like what did I miss?","[('shook', 'SLANG')]",1
+"I'm shook, man! 3. When I found out we have a pop quiz in math today, I was completely shook.","[('shook', 'SLANG')]",1
+Why are people so extra about their coffee orders these days?,"[('extra', 'SLANG')]",1
+"It looks so lit, I can't wait to play it!","[('lit', 'SLANG')]",1
+"Don't take everything so seriously, I'm just messing around with my caps - no harm intended!","[('caps', 'SLANG')]",1
+"I swear, Kevin is always trying to one-up everyone in our friend group and it's just plain old extra.","[('extra', 'SLANG')]",1
+My friend's outfit at the party last night had me shook - it was amazing!,"[('shook', 'SLANG')]",1
+"This new video game is seriously lit, I can't stop playing it.","[('lit', 'SLANG')]",1
+Don't be so salty just because I beat you in basketball yesterday!,"[('salty', 'SLANG')]",1
+"My math test today was totally mid; I didn't fail, but I definitely didn't ace it either.","[('mid', 'SLANG')]",1
+She's been spreading rumors like crazy lately - all of it just straight up cap!,"[('cap', 'SLANG')]",1
+Don't take him too seriously; he's just spewing out caps left and right.,"[('caps', 'SLANG')]",1
+The way Jordan carries himself just exudes confidence and drip.,"[('drip', 'SLANG')]",1
+"Anna really needs to stop trying to cap on me for missing practice yesterday, like she's never skipped before.","[('cap', 'SLANG')]",1
+My morning workout today was super mid; I couldn't find any motivation to push through the reps.,"[('mid', 'SLANG')]",1
+"Honestly, sometimes I feel like half the stuff people say is just pure cap for attention.","[('cap', 'SLANG')]",1
+I could tell Jake was getting salty when we were discussing our grades.,"[('salty', 'SLANG')]",1
+Don't cap about your crush liking you back; we all saw how she ignored your text last night.,"[('cap', 'SLANG')]",1
+My current playlist is just so incredibly mid right now; need some bangers ASAP!,"[('mid', 'SLANG')]",1
+I can't deal with people who are constantly being extra for attention on social media.,"[('extra', 'SLANG')]",1
+I can spot a capper from a mile away ‚Äì they can never keep their stories straight!,"[('capper', 'SLANG')]",1
+"The concert last night was beyond lit, the atmosphere was electric.","[('lit', 'SLANG')]",1
+It was hands down the most lit experience of my life.,"[('lit', 'SLANG')]",1
+"My friend's outfit was so on point, I was shook when I saw her walk in.","[('shook', 'SLANG')]",1
+"This playlist is okay, but some of the songs on here are definitely a bit mid.","[('mid', 'SLANG')]",1
+"My teacher assigned a surprise test today, and I was totally shook - I didn't even know we had covered that material!","[('shook', 'SLANG')]",1
+Why does he always have to be extra in front of his crush?,"[('extra', 'SLANG')]",1
+She was really salty when she found out she didn't get the lead role in the school play.,"[('salty', 'SLANG')]",1
+Did you see Sarah's drip at the party last night? She was totally slaying in that sequined dress.,"[('drip', 'SLANG')]",1
+My mom surprised me with tickets to Coachella this year - it's gonna be beyond lit!,"[('lit', 'SLANG')]",1
+My outfit for the party tonight feels kind of mid...maybe I'll change before heading out.,"[('mid...maybe', 'SLANG')]",1
+Tommy was acting super salty after he didn't get the lead role in the school play.,"[('salty', 'SLANG')]",1
+The food is supposed to be really good and the atmosphere is hella lit.,"[('lit', 'SLANG')]",1
+"It's getting old and nobody is buying it anymore. 10.Don't take everything so seriously man, sometimes we're just messing around and capping on each other for fun!","[('capping', 'SLANG')]",1
+My little brother's magic trick actually left me pretty shook - how did he do that?,"[('shook', 'SLANG')]",1
+"It's straight-up drip, I can't stop listening to it.","[('drip', 'SLANG')]",1
+Olivia keeps capping about how many followers she has on Instagram like it's some huge accomplishment or something.,"[('capping', 'SLANG')]",1
+Totally left me feeling hella shook.,"[('shook', 'SLANG')]",1
+"The way Maya dances to that song is pure drip, she's got moves for days!","[('drip', 'SLANG')]",1
+My workout today was just okay - felt kind of mid in terms of progress and energy levels.,"[('mid', 'SLANG')]",1
+The moment he opened his mouth and started spinning tales...major red flag for incoming cap!,"[('cap', 'SLANG')]",1
+That new guy in class has some serious drip - his shoe game is on point.,"[('drip', 'SLANG')]",1
+"I'm still shook from the ending of that movie last night, it was totally unexpected!","[('shook', 'SLANG')]",1
+My little brother keeps trying to roast me but his insults are weak sauce - it's all just pure cap.,"[('cap', 'SLANG')]",1
+Why is Alex always so extra about his outfit choices for school?,"[('extra', 'SLANG')]",1
+She rented out a rooftop venue - gonna be so freaking lit!,"[('lit', 'SLANG')]",1
+She showed up with a new hairstyle and everyone was shook by how good she looked! 10.The plot twist in that TV show had me so incredibly shook!,"[('shook', 'SLANG')]",1
+"When Jenny found out we're having pizza for lunch, she was way too extra jumping up and down with excitement.","[('extra', 'SLANG')]",1
+I thought about going out for a run today but the weather is way too mid for that.,"[('mid', 'SLANG')]",1
+Don't tell me you're getting all salty over nothing again?,"[('salty', 'SLANG')]",1
+"I can't believe she tried to cap on me in front of everyone, like who does she think she is?","[('cap', 'SLANG')]",1
+I ordered a drink at Starbucks and it tasted kinda bland - definitely on the more 'mid' side of things.,"[('mid', 'SLANG')]",1
+The way he freaked out over losing his favorite pen was just too extra.,"[('extra', 'SLANG')]",1
+"Jenny is always super salty towards new people at school, it's kind of off-putting.","[('salty', 'SLANG')]",1
+"The food at that new restaurant in town is bomb; we should totally go there, it'll be lit.","[('lit', 'SLANG')]",1
+Can you believe how extra Jenny was being at the party last night?,"[('extra', 'SLANG')]",1
+"My ex keeps leaving me salty comments on my Instagram posts, like just move on already.","[('salty', 'SLANG')]",1
+She's just being way too extra lately.,"[('extra', 'SLANG')]",1
+It was straight-up cap.,"[('cap', 'SLANG')]",1
+Why is Emily always so extra about her outfit choices for school?,"[('extra', 'SLANG')]",1
+I don't know why Emily gets so salty whenever someone disagrees with her opinion.,"[('salty', 'SLANG')]",1
+That new sneaker release has serious drip - I gotta cop a pair ASAP.,"[('drip', 'SLANG')]",1
+I'm so shook right now.,"[('shook', 'SLANG')]",1
+The food at that new restaurant was lit; I totally want to go back and try more dishes.,"[('lit', 'SLANG')]",1
+Are you feeling a little salty because you got a bad grade on that test?,"[('salty', 'SLANG')]",1
+I can't believe she's still salty about that comment from last week.,"[('salty', 'SLANG')]",1
+That plot twist in my favorite TV show left me absolutely shook.,"[('shook', 'SLANG')]",1
+Why are you so salty every time we talk about your ex?,"[('salty', 'SLANG')]",1
+"Don't listen to John, he's always capping about how many girls are into him.","[('capping', 'SLANG')]",1
+The way she freaked out about not getting enough likes on her selfie was beyond extra.,"[('extra', 'SLANG')]",1
+I'm on the hunt for some new sneakers to complete my drip for the upcoming school dance.,"[('drip', 'SLANG')]",1
+I can't believe how much cap Jessica is spewing about her new relationship being perfect - we all know they fight non-stop.,"[('cap', 'SLANG')]",1
+Seeing him perform live left me completely shook ‚Äì he's even better in person!,"[('shook', 'SLANG')]",1
+Max brought his guitar to school today and started singing in the hallway - talk about being extra!,"[('extra', 'SLANG')]",1
+Why is Brian being so extra about his crush not texting him back right away?,"[('extra', 'SLANG')]",1
+My little brother really needs to chill with all the cap; it's getting old really fast.,"[('cap', 'SLANG')]",1
+"She was being so extra in English class today, like calm down with all the dramatics!","[('extra', 'SLANG')]",1
+The concert last weekend was so mid - the opening act was better than the main performer!,"[('mid', 'SLANG')]",1
+"Honestly, my mood is so mid right now; I'm not happy but I'm not super upset either.","[('mid', 'SLANG')]",1
+"I swear if he tries to cap on my outfit one more time, I'm done with him.","[('cap', 'SLANG')]",1
+"I really need a new phone, but all the options out there are so mid in terms of features and price.","[('mid', 'SLANG')]",1
+"Finals week is finally over - time to kick back and have a few drinks with the squad, gonna get super lit tonight!","[('lit', 'SLANG')]",1
+The special effects were so lit!,"[('lit', 'SLANG')]",1
+She seems really salty ever since she failed her math test.,"[('salty', 'SLANG')]",1
+"Dude, I tried that new restaurant downtown and the food was definitely mid, like not terrible but nothing special.","[('mid', 'SLANG')]",1
+I heard there's a music festival coming up in town - it's supposed to be really lit with popular DJs performing.,"[('lit', 'SLANG')]",1
+The amount of homework we have this week has me feeling so shook - how are we supposed to finish it all?,"[('shook', 'SLANG')]",1
+Sarah has been acting really salty ever since she didn't get invited to the party.,"[('salty', 'SLANG')]",1
+"Sarah was salty about not getting invited to the party, but she never talks to anyone anyway.","[('salty', 'SLANG')]",1
+It's gonna be crazy lit with a live DJ and all!,"[('lit', 'SLANG')]",1
+"The party last weekend was okay, but I'd say it was just mid compared to others we've been to.","[('mid', 'SLANG')]",1
+I was shook when I found out that my favorite band is coming to town next month!,"[('shook', 'SLANG')]",1
+"Honestly, I thought it was pretty mid.","[('mid', 'SLANG')]",1
+My friend's story about getting stuck in an elevator had us all laughing and feeling lowkey shook at the same time.,"[('shook', 'SLANG')]",1
+Did you see Jenny's reaction when the teacher assigned extra homework?,"[('extra', 'SLANG')]",1
+"Bro, your haircut gives off mad drip, it suits you so well.","[('drip', 'SLANG')]",1
+I'm feeling pretty salty about getting a bad grade on that test.,"[('salty', 'SLANG')]",1
+The right accessories can take your outfit from basic to major drip in seconds!,"[('drip', 'SLANG')]",1
+My parents were shook when they saw my grades this semester.,"[('shook', 'SLANG')]",1
+"My birthday party next month is gonna be absolutely lit, you better save the date!","[('lit', 'SLANG')]",1
+I can't believe Sally tried to cap on me saying I failed the test when she got an even lower score!,"[('cap', 'SLANG')]",1
+"I don't know why she's being so salty towards me lately, I didn't do anything wrong.","[('salty', 'SLANG')]",1
+"The food at that new restaurant downtown is supposed to be super lit, let's check it out this weekend.","[('lit', 'SLANG')]",1
+Seeing her amazing art skills in action left me seriously shook.,"[('shook', 'SLANG')]",1
+I'm thinking of rocking a retro vibe with my drip for the upcoming festival ‚Äì what do you think?,"[('drip', 'SLANG')]",1
+"I went to the concert last night, and the opening act was really mid in my opinion.","[('mid', 'SLANG')]",1
+"The weather forecast for the weekend is looking pretty mid, hopefully it doesn't rain during our plans.","[('mid', 'SLANG')]",1
+She's always getting salty whenever someone criticizes her favorite band.,"[('salty', 'SLANG')]",1
+Can't wait for prom next month - I'm already planning out my killer drip for the night.,"[('drip', 'SLANG')]",1
+Their new collection is full of dope drips.,"[('drips', 'SLANG')]",1
+She's been acting all salty ever since she found out she didn't get the job.,"[('salty', 'SLANG')]",1
+"I can't wait for the weekend, we're going to throw a lit party at my place.","[('lit', 'SLANG')]",1
+I can't believe Jake tried to tell me that cap about acing the test without studying.,"[('cap', 'SLANG')]",1
+I'm planning my whole prom look around this sick dress - it's gonna be top-tier drip.,"[('drip', 'SLANG')]",1
+"I'm shook, it's gonna be crazy!","[('shook', 'SLANG')]",1
+"I can't stand it when friends are super-extra about their birthday celebrations - like we get it, you want attention!","[('super-extra', 'SLANG')]",1
+"I can't deal with his extra attitude today, it's too much.","[('extra', 'SLANG')]",1
+"My teacher announced a surprise test today, and I was totally shook.","[('shook', 'SLANG')]",1
+That new song from Billie Eilish has me absolutely shook ‚Äì it's so good!,"[('shook', 'SLANG')]",1
+"That party last night was so lit, the music was amazing and everyone was dancing.","[('lit', 'SLANG')]",1
+She was straight up capping when she said she didn't cheat on the test.,"[('capping', 'SLANG')]",1
+My teacher was so extra today with the pop quiz right before lunch - like really??,"[('extra', 'SLANG')]",1
+The way he flirts with every girl in sight is beyond extra ‚Äì makes me roll my eyes every time.,"[('extra', 'SLANG')]",1
+"Stop capping, you know you didn't finish your homework last night.","[('capping', 'SLANG')]",1
+Gotta make sure we all come with our best drip.,"[('drip', 'SLANG')]",1
+"My lunch today was decent, just kinda mid - nothing special but it filled me up.","[('mid', 'SLANG')]",1
+"I think she's just trying to make you feel better, no need to get all salty about it.","[('salty', 'SLANG')]",1
+"My friend recommended this show to me and said it was amazing, but honestly it's just been kind of mid so far - not sure if I'll keep watching.","[('mid', 'SLANG')]",1
+"This weekend's music festival is going to be so lit, I can't wait to see all the acts.","[('lit', 'SLANG')]",1
+It drives me crazy when my little brother gets all whiny and pouty over something minor like not getting dessert - he's so dang extra sometimes.,"[('extra', 'SLANG')]",1
+It's so much fun going thrift shopping with friends - you can find some unique pieces that really elevate your everyday drip.,"[('drip', 'SLANG')]",1
+The new video game that just came out is supposed to be super fun and really lit.,"[('lit', 'SLANG')]",1
+Just tell us what really happened without all the added layers of extra unnecessary cap!,"[('cap', 'SLANG')]",1
+"The ending of that movie had me so shook, I couldn't stop thinking about it for days.","[('shook', 'SLANG')]",1
+"My parents surprised me with tickets to the concert next week, and I'm still so shook about it!","[('shook', 'SLANG')]",1
+I was shook when my crush started texting me out of nowhere.,"[('shook', 'SLANG')]",1
+Can we stop being all salty towards each other and just enjoy the day together?,"[('salty', 'SLANG')]",1
+It has me feeling low-key shook.,"[('shook', 'SLANG')]",1
+"Your reaction to him not texting back is honestly extra, like chill out, he's probably just busy.","[('extra', 'SLANG')]",1
+Why does he have to be extra loud when he tells a story?,"[('extra', 'SLANG')]",1
+"I heard there's a bonfire at the beach tonight, it's gonna be so lit!","[('lit', 'SLANG')]",1
+Seeing my crush with someone else at the party had me feeling so shook.,"[('shook', 'SLANG')]",1
+I was shook!,"[('shook', 'SLANG')]",1
+"The ending of that TV show had me so shook, I couldn't believe they left us on a cliffhanger like that.","[('shook', 'SLANG')]",1
+"Yo, did you see Stevie's drip today?","[('drip', 'SLANG')]",1
+It was absolutely lit from start to finish!,"[('lit', 'SLANG')]",1
+Why are you being so salty just because I beat you in the game?,"[('salty', 'SLANG')]",1
+I'm browsing online stores for some fresh additions to my summer drip collection.,"[('drip', 'SLANG')]",1
+She's always so dramatic and extra whenever she doesn't get her way.,"[('extra', 'SLANG')]",1
+I watched the season finale of that show last night and the plot twist at the end left me absolutely shook.,"[('shook', 'SLANG')]",1
+I'm thinking of adding a new piece to my wardrobe to elevate my overall drip.,"[('drip', 'SLANG')]",1
+You won't believe the drama that went down at lunch today - everyone was so shook!,"[('shook', 'SLANG')]",1
+It adds a whole new level of drip to his look.,"[('drip', 'SLANG')]",1
+I don't get why he's always so salty when someone disagrees with him.,"[('salty', 'SLANG')]",1
+I don't know why she's so salty towards me lately; I haven't done anything wrong.,"[('salty', 'SLANG')]",1
+"Don't listen to him, he's just capping about being able to dunk a basketball - I've seen his hops, no way it's happening!","[('capping', 'SLANG')]",1
+"I heard that new movie is super lit, we should go see it together.","[('lit', 'SLANG')]",1
+"I can't believe how fast this year is going by, it has me feeling so shook.","[('shook', 'SLANG')]",1
+I'm genuinely shook.,"[('shook', 'SLANG')]",1
+Cameron kept insisting he could dunk a basketball even though we‚Äôve never seen him hit anything above net height- definite cap.,"[('cap', 'SLANG')]",1
+"I thought the party last night was going to be lit, but it ended up being just...mid.","[('just...mid', 'SLANG')]",1
+"My math test yesterday was so mid, I thought I did well but ended up getting a mediocre grade.","[('mid', 'SLANG')]",1
+The whole group chat got real salty when we couldn't decide on where to go for lunch.,"[('salty', 'SLANG')]",1
+The way Sarah accessorizes her outfits always gives off major drip vibes.,"[('drip', 'SLANG')]",1
+That's a bold cap to say you're the best Fortnite player in our friend group.,"[('cap', 'SLANG')]",1
+You should have seen how extra,"[('extra', 'SLANG')]",1
+"This new video game I bought is so lit, I've been playing non-stop.","[('lit', 'SLANG')]",1
+It's annoying how some people always seem to be in a salty mood for no reason.,"[('salty', 'SLANG')]",1
+Trying to decide what to wear to the concert tonight and everything just feels so...mid-level trendy attire-wise if that makes sense!,"[('so...mid-level', 'SLANG')]",1
+"I heard there's a new cafe opening downtown with really amazing drinks - let's check it out, it sounds super lit.","[('lit', 'SLANG')]",1
+"My chemistry test results were so mid, I thought I aced it but ended up with a mediocre grade.","[('mid', 'SLANG')]",1
+Seeing my ex with someone new at the party low-key had me feeling pretty shook.,"[('shook', 'SLANG')]",1
+"It's absolutely lit, you have to watch it!","[('lit', 'SLANG')]",1
+Don't you think it's ridiculous how James gets so extra emotional over every little disagreement?,"[('extra', 'SLANG')]",1
+"She showed up to prom wearing a suit instead of a dress, and everyone was so shook.","[('shook', 'SLANG')]",1
+"Don't cap, I saw you copying my answers during the last test.","[('cap', 'SLANG')]",1
+Why are you being so salty towards her?,"[('salty', 'SLANG')]",1
+There are so many influencers on social media serving looks with their incredible drip!,"[('drip', 'SLANG')]",1
+I've been scrolling through Instagram for hours looking for inspiration for my next level of drip.,"[('drip', 'SLANG')]",1
+"Yo, that new song from Drake has such a sick beat - total drip!","[('drip', 'SLANG')]",1
+Getting an A on that test after not studying at all had me shook.,"[('shook', 'SLANG')]",1
+"It was seriously lit, the special effects were amazing!","[('lit', 'SLANG')]",1
+She had the best drip in school.,"[('drip', 'SLANG')]",1
+Did you see Sarah's new drip?,"[('drip', 'SLANG')]",1
+"That new song that just dropped is straight fire, it's got some serious drip.","[('drip', 'SLANG')]",1
+"We should totally plan a road trip this summer, it would be so lit to visit different cities.","[('lit', 'SLANG')]",1
+"That's such a cap, bro.","[('cap', 'SLANG')]",1
+"I heard there's a new restaurant opening up downtown, and their food is supposed to be super lit.","[('lit', 'SLANG')]",1
+"I bought these new shoes online thinking they were fire, but they're actually pretty mid in person.","[('mid', 'SLANG')]",1
+Don‚Äôt believe a word she says - it‚Äôs all just one big heap of hot air and pure cap!,"[('cap', 'SLANG')]",1
+Why does he always have to make such an extra entrance whenever he comes into a room?,"[('extra', 'SLANG')]",1
+Seeing how much weight my friend lost over the summer had me completely shook.,"[('shook', 'SLANG')]",1
+My friend‚Äôs pool party last weekend was insanely lit - they had a DJ and everything! 10.Can you believe how many people showed up to the bonfire last night?,"[('lit', 'SLANG')]",1
+"My mom was being so extra this morning, getting mad at me for hitting snooze on my alarm clock once.","[('extra', 'SLANG')]",1
+My teacher's reaction to my presentation had me feeling all kinds of shook.,"[('shook', 'SLANG')]",1
+"When my favorite band announced a surprise concert in our city, I was beyond shook and immediately bought tickets.","[('shook', 'SLANG')]",1
+He was acting all salty because he didn't get invited to the party.,"[('salty', 'SLANG')]",1
+"I'm trying to avoid being too extra about my outfit for tonight's party, but I can't help but overthink every detail.","[('extra', 'SLANG')]",1
+"That new cafe downtown has major aesthetic drip, perfect for Instagram pics.","[('drip', 'SLANG')]",1
+"Don't be so salty just because you lost in that game, it's not a big deal.","[('salty', 'SLANG')]",1
+It's gonna be so lit.,"[('lit', 'SLANG')]",1
+He's always getting salty when things don't go his way during group projects.,"[('salty', 'SLANG')]",1
+"I'm sorry but I can't handle people who are constantly seeking attention and being over-the-top dramatic about every little thing, it's too much - they're just plain old 'extra'.","[('extra', 'SLANG')]",1
+"I heard there's a new band playing at the local venue tonight, it's gonna be so lit.","[('lit', 'SLANG')]",1
+I'm over all the extra drama in our friend group lately - can we just have a chill hangout for once?,"[('extra', 'SLANG')]",1
+"I thought the new album from my favorite artist would be fire, but turns out it's just mid.","[('mid', 'SLANG')]",1
+"My mom is always being extra about me cleaning my room, it's not that serious.","[('extra', 'SLANG')]",1
+"The music festival lineup looks amazing this year, it's going to be super lit! 10.Last night I went out with my friends and got completely Lit; definitely feeling it today!","[('lit', 'SLANG')]",1
+She gets super salty whenever someone mentions her ex-boyfriend.,"[('salty', 'SLANG')]",1
+It's so obvious when Jessica is capping about her weekend plans just to sound cool in front of everyone.,"[('capping', 'SLANG')]",1
+The energy in the crowd was so lit!,"[('lit', 'SLANG')]",1
+"Last night at the party, Amy was super flirty with every guy there - talk about putting on an unnecessary and uncomfortable display of being extra!","[('extra', 'SLANG')]",1
+He's been acting real salty about it ever since.,"[('salty', 'SLANG')]",1
+"I thought I did pretty well on that test, but turns out my grade was just mid.","[('mid', 'SLANG')]",1
+I don't get why he has to be so extra with his jokes - they're not even that funny.,"[('extra', 'SLANG')]",1
+My friend's birthday party got way too lit last night; we were dancing until sunrise!,"[('lit', 'SLANG')]",1
+"Don't be so salty just because you didn't get the lead role in the school play, there's always next time!","[('salty', 'SLANG')]",1
+Why is Jake acting so salty today?,"[('salty', 'SLANG')]",1
+"She's always so extra with her selfies, like girl, we know you used FaceTune.","[('extra', 'SLANG')]",1
+Why is Sarah being so extra about her crush not texting her back?,"[('extra', 'SLANG')]",1
+"He keeps capping about his new car, like we don't know it's borrowed from his dad.","[('capping', 'SLANG')]",1
+She's been acting super salty ever since she found out she didn't make the cheerleading squad.,"[('salty', 'SLANG')]",1
+My mom is being totally extra about me coming home five minutes late last night.,"[('extra', 'SLANG')]",1
+Did you see how extra Sarah was acting at the party last night?,"[('extra', 'SLANG')]",1
+The food at that new restaurant in town is seriously lit.,"[('lit', 'SLANG')]",1
+Why is Lisa being so extra about her birthday party?,"[('extra', 'SLANG')]",1
+My lunch today was so mid; I wish we had a better selection at the cafeteria.,"[('mid', 'SLANG')]",1
+"I was so shook, I couldn't believe it!","[('shook', 'SLANG')]",1
+I'm feeling super energized for exams because my study playlist is straight-up lit!,"[('lit', 'SLANG')]",1
+"The concert last night was so mid - the opening act was amazing, but the headliner kinda flopped.","[('mid', 'SLANG')]",1
+"I don't know why she's being so salty lately, everything seems fine to me.","[('salty', 'SLANG')]",1
+"I can't deal with all the drama, everyone in our group is being so extra today.","[('extra', 'SLANG')]",1
+"It's going to be a night to remember, totally lit.","[('lit', 'SLANG')]",1
+I can't believe he's still salty about losing the basketball game last week.,"[('salty', 'SLANG')]",1
+I'm thinking of hitting up the mall this weekend to upgrade my drip game.,"[('drip', 'SLANG')]",1
+Why is Alex acting so salty towards everyone lately?,"[('salty', 'SLANG')]",1
+He tried to flex with his new car but we all know it's just a rental - talk about capping for attention.,"[('capping', 'SLANG')]",1
+"I can't believe she actually said that to him, it had me shook.","[('shook', 'SLANG')]",1
+"Chill out, man! 3. Why is Emily so salty about not getting invited to Rachel's party?","[('salty', 'SLANG')]",1
+"I thought the concert would be amazing, but the sound quality was just mid.","[('mid', 'SLANG')]",1
+"When my parents surprised me with tickets to my favorite band's concert, I was completely shook!","[('shook', 'SLANG')]",1
+Sarah has been acting really salty ever since she found out she didn't make the cheerleading squad.,"[('salty', 'SLANG')]",1
+She got really salty when she found out she didn't make the team.,"[('salty', 'SLANG')]",1
+The way Max accessorizes his outfits always adds an extra touch of drip to his style.,"[('drip', 'SLANG')]",1
+"Ugh, I can't believe she's still salty about what happened at the party last week.","[('salty', 'SLANG')]",1
+"My grades this semester are looking pretty mid, gotta study harder next time.","[('mid', 'SLANG')]",1
+"My teacher keeps changing the due dates for assignments last minute, it's so sus, makes me think he's just trying to catch us off guard.","('sus', 'SLANG')",1
+"Just got my paycheck, so you know I'm finna go splurge on some new clothes.","('finna', 'SLANG')",1
+Anna is always texting Mike first and double texting if he doesn't reply right away - she needs to stop being such a simp for him.,"('simp', 'SLANG')",1
+He's definitely a simp for her.,"('simp', 'SLANG')",1
+The teacher giving extra credit just before grades are due feels kinda sus to me.,"('sus', 'SLANG')",1
+"My mom said she's gonna cook tacos for dinner tonight, so you best believe I'm finna invite y'all over!","('finna', 'SLANG')",1
+"We're finna party at Sarah's house this weekend, it's gonna be lit!","('finna', 'SLANG')",1
+Simp alert!,"('simp', 'SLANG')",1
+"He's always doing her homework and buying her lunch, he's the biggest simp in our friend group.","('simp', 'SLANG')",1
+Let's pregame a little before heading out so we can get properly turnt later on.,"('turnt', 'SLANG')",1
+His excuse for being late to practice every day sounds really sus.,"('sus', 'SLANG')",1
+"I swear, Alex changes his plans just to be around Lily all the time, major simp behavior.","('simp', 'SLANG')",1
+My parents are finna kill me if they find out I failed my math test.,"('finna', 'SLANG')",1
+"I heard that the test answers got leaked, it's definitely sus.","('sus', 'SLANG')",1
+Let me know if you're finna join the gym with me next month.,"('finna', 'SLANG')",1
+I'm definitely not gonna stay in tonight; I'm feeling restless and am 100% #finnagoturnt!,"('finnagoturnt', 'SLANG')",1
+"Let me know if you're finna catch a movie tonight, we can make plans.","('finna', 'SLANG')",1
+Sometimes it feels like everyone at our school is competing to see who can out-simp each other the most in relationships.,"('out-simp', 'SLANG')",1
+Can't wait until summer break - we're all finna go on a road trip together!,"('finna', 'SLANG')",1
+She's the biggest simp I know.,"('simp', 'SLANG')",1
+"Hey y'all, I'm finna head to the mall after school, anyone wanna come with?","('finna', 'SLANG')",1
+It just screams simp.,"('simp', 'SLANG')",1
+Remember that time Sarah got so turnt she started telling strangers her life story?,"('turnt', 'SLANG')",1
+We're finna play some basketball at the court tomorrow afternoon if you wanna join us.,"('finna', 'SLANG')",1
+I'm just finna grab a quick snack before we go out.,"('finna', 'SLANG')",1
+I can't get enough of these cheesy fries; they're seriously so bussin.,"('bussin', 'SLANG')",1
+We should have a movie night and get turnt on soda and popcorn instead of alcohol for once.,"('turnt', 'SLANG')",1
+"I don't know, that new guy at school seems kinda sus to me.","('sus', 'SLANG')",1
+"These new sneakers I just bought are so bussin, I can't stop wearing them.","('bussin', 'SLANG')",1
+I heard Mark got way too turnt at that concert and had to be carried out by security - what a wild night!,"('turnt', 'SLANG')",1
+Are you finna study for the math test next week?,"('finna', 'SLANG')",1
+"I'm finna binge-watch that new series on Netflix this weekend, it looks so good.","('finna', 'SLANG')",1
+Remember that time Alex got so turnt he started singing karaoke in his underwear?,"('turnt', 'SLANG')",1
+"Last weekend's party was crazy, we were all so turnt!","('turnt', 'SLANG')",1
+This outfit is absolutely bussin - I feel like a million bucks wearing it.,"('bussin', 'SLANG')",1
+She's such a simp for him.,"('simp', 'SLANG')",1
+It's kind of sus if you ask me.,"('sus', 'SLANG')",1
+"The new kid keeps staring at everyone in class, it‚Äö√Ñ√¥s super sus.","('sus', 'SLANG')",1
+"Being called a simp should be embarrassing, but some people wear it like a badge of honor these days.","('simp', 'SLANG')",1
+"Even though I got super turnt, I still made it to class this morning ‚Äö√Ñ√¨ barely though.","('turnt', 'SLANG')",1
+"I can't believe Sarah got so turnt at the concert last night, she was wild!","('turnt', 'SLANG')",1
+We need to pregame hard before the school dance if we want to be really turnt.,"('turnt', 'SLANG')",1
+We finna watch that new movie tonight.,"('finna', 'SLANG')",1
+It‚Äö√Ñ√¥s seriously bussin - best flavors ever!,"('bussin', 'SLANG')",1
+We better have some good snacks ready for later when everyone gets back from getting madly turnt!,"('turnt', 'SLANG')",1
+The way Jenna quickly changed the subject when we asked her about her grades...totally sus!,"('sus', 'SLANG')",1
+The weather today is actually pretty nice - like seriously bussin for a change!,"('bussin', 'SLANG')",1
+Are you down to get turnt at the concert this weekend?,"('turnt', 'SLANG')",1
+Emma keeps borrowing money from everyone but never pays them back; it's starting to seem pretty sus to me.,"('sus', 'SLANG')",1
+"She's been simping for that guy in our calculus class, buying him coffee every morning like it's her job.","('simping', 'SLANG')",1
+"Hey, I'm finna grab some food after class, you coming?","('finna', 'SLANG')",1
+"I just finished watching the latest Marvel movie and let me tell you, it was bussin from start to finish!","('bussin', 'SLANG')",1
+Her sudden change in attitude towards everyone after that incident felt really sus to me; like why the sudden switch?,"('sus', 'SLANG')",1
+I heard it's gonna be so turnt!,"('turnt', 'SLANG')",1
+Their tacos are straight up bussin!,"('bussin', 'SLANG')",1
+Let's pregame before we hit the club and get super turnt.,"('turnt', 'SLANG')",1
+It's hella sus.,"('sus', 'SLANG')",1
+"I just got my mom's secret recipe for chocolate chip cookies and let me tell you, they're bussin.","('bussin', 'SLANG')",1
+"Ryan wrote a whole essay about how much he likes Sarah, talk about being a simp.","('simp', 'SLANG')",1
+"I just listened to that new album everyone's been talking about, and let me tell you, it's bussin.","('bussin', 'SLANG')",1
+"I can't believe how turnt we all were at prom last year, it was wild!","('turnt', 'SLANG')",1
+I heard it gets really turnt.‚Äö√Ñ√π,"('turnt.‚Äö√§√π', 'SLANG')",1
+"We're finna grab some pizza before the party tonight, you down?","('finna', 'SLANG')",1
+Do you think you're finna ace that calculus test today?,"('finna', 'SLANG')",1
+We were all so turnt at the beach bonfire last summer - those were some wild nights.,"('turnt', 'SLANG')",1
+Who's finna go grab some pizza after school today?,"('finna', 'SLANG')",1
+I heard some pretty sus rumors going around school about that group of friends.,"('sus', 'SLANG')",1
+The weather is perfect today for a hike; I bet the views are going to be super bussin.,"('bussin', 'SLANG')",1
+"We're all finna meet up at the park after school, you should come too!","('finna', 'SLANG')",1
+"We should hit up that new roller skating rink in town, I heard the music there is always bussin.","('bussin', 'SLANG')",1
+I'd rather not be known as the school simpsquad with all these over-the-top displays of affection going on.,"('simpsquad', 'SLANG')",1
+"Their mango slushies are bussin, you gotta check it out.","('bussin', 'SLANG')",1
+"Hey y'all, I'm finna head to the football game later, you coming?","('finna', 'SLANG')",1
+"I made some homemade cookies yesterday and they turned out to be bussin, everyone loved them!","('bussin', 'SLANG')",1
+"My mom made her famous lasagna for dinner and let me tell you, it was bussin as usual.","('bussin', 'SLANG')",1
+"The party last weekend was absolutely bussin, I had such a great time dancing with everyone.","('bussin', 'SLANG')",1
+"Sarah spent hours crafting the perfect text message for Michael, and he barely responded... talk about being a simp, right?","('simp', 'SLANG')",1
+"I just listened to the new song by my favorite artist, and it's straight-up bussin.","('bussin', 'SLANG')",1
+"I'm finna grab some food after school, anyone wanna join?","('finna', 'SLANG')",1
+"She said she's finna break up with him, drama alert!","('finna', 'SLANG')",1
+The whole situation with our science teacher cancelling the test last-minute feels low-key kind of sus to me ‚Äö√Ñ√¨ like what‚Äö√Ñ√¥s really going on there?,"('sus', 'SLANG')",1
+"I tried making homemade pizza last night, and it was actually bussin.","('bussin', 'SLANG')",1
+"Angela is always doing her crush's homework for him, she's the ultimate simp queen.","('simp', 'SLANG')",1
+The way Chris follows his girlfriend around like a lost puppy is actually kind of sad...he needs to stop being such a simp and have some self-respect.,"('simp', 'SLANG')",1
+"My parents are being super strict all of a sudden, it feels really sus.","('sus', 'SLANG')",1
+The tacos from that food truck we went to yesterday were beyond delicious - truly classic street food and totally bussin.,"('bussin', 'SLANG')",1
+"My parents think I've never been turnt before, but little do they know...","('turnt', 'SLANG')",1
+My mom made homemade chocolate chip cookies and they were absolutely bussin.,"('bussin', 'SLANG')",1
+I was finna go with some friends.,"('finna', 'SLANG')",1
+"That movie we watched last night was surprisingly really bussin, I didn't expect it to be that good.","('bussin', 'SLANG')",1
+It's so sus!,"('sus', 'SLANG')",1
+Seems low-key sus to me.,"('sus', 'SLANG')",1
+Taylor was already pretty tipsy when we arrived at the club but somehow managed to get even more turnt by the end of the night ‚Äö√Ñ√¨ he's a true party animal!,"('turnt', 'SLANG')",1
+"Her alibi for missing class doesn't add up, it's so blatantly sus.","('sus', 'SLANG')",1
+She's a total simp for him.,"('simp', 'SLANG')",1
+"Sarah has been acting really sus lately, like she's hiding something from us.","('sus', 'SLANG')",1
+Olivia is always liking and commenting on her crush's Instagram posts - she's such a simp.,"('simp', 'SLANG')",1
+Don‚Äö√Ñ√¥t you find it a bit sus how she‚Äö√Ñ√¥s always conveniently late to everything?,"('sus', 'SLANG')",1
+"Sarah posted one selfie and now Jake is commenting heart eyes on all her pics, total simp move.","('simp', 'SLANG')",1
+Jack really knows how to throw a party; everyone always ends up super turnt at his place.,"('turnt', 'SLANG')",1
+I think our teacher is being sus by giving us extra homework right before the weekend.,"('sus', 'SLANG')",1
+It‚Äö√Ñ√¥s annoying how people will do anything for likes on social media - don't be a digital simp!,"('simp', 'SLANG')",1
+Remember that time Alex got so turnt he ended up dancing on a table?,"('turnt', 'SLANG')",1
+He's definitely simping hard.,"('simping', 'SLANG')",1
+"The chemistry test was actually bussin, I aced it without even studying much.","('bussin', 'SLANG')",1
+Total simp behavior.,"('simp', 'SLANG')",1
+"It's funny how some people act when they're super turnt, it's like a whole different person comes out.","('turnt', 'SLANG')",1
+Maria stayed up all night helping Mark study even though he barely acknowledged it - that's next-level simping right there.,"('simping', 'SLANG')",1
+"It had me laughing so hard, it was straight-up bussin!","('bussin', 'SLANG')",1
+"The birthday party was turnt with a live band, delicious food, and lively conversations.","('turnt', 'SLANG')",1
+"I'm so tired today, but I'm still finna go to the gym after class.","('finna', 'SLANG')",1
+"I can't believe Jake got turnt after only a few shots, he couldn't even walk straight.","('turnt', 'SLANG')",1
+"I don't trust his excuses for missing practice, it all sounds so sus to me.","('sus', 'SLANG')",1
+"She said she's finna throw a party this weekend, it's gonna be lit.","('finna', 'SLANG')",1
+Her excuse for not showing up to the party sounds so sus.,"('sus', 'SLANG')",1
+"I hate when my friends start acting like simps whenever they have a crush, it's so cringeworthy.","('simps', 'SLANG')",1
+Are you guys finna come over and help me with my history project?,"('finna', 'SLANG')",1
+The weather is finally warming up so we should definitely plan a beach day soon - it'll be bussin for sure.,"('bussin', 'SLANG')",1
+Let's pregame a bit before going out tonight; I want to be already feeling slightly turnt when we hit the club.,"('turnt', 'SLANG')",1
+"I can't stop listening to this new song, it's been on repeat all day ‚Äö√Ñ√¨ it's just too bussin not to play on repeat!","('bussin', 'SLANG')",1
+It's sus how they always manage to get out of doing chores around the house.,"('sus', 'SLANG')",1
+Their street tacos are seriously bussin.,"('bussin', 'SLANG')",1
+"My ex-boyfriend was such a simp, he would do anything I asked just to impress me.","('simp', 'SLANG')",1
+"The party last night was so much fun, the vibes were bussin all night long.","('bussin', 'SLANG')",1
+We should definitely hit up that sushi place for lunch tomorrow - their rolls are consistently bussin!,"('bussin', 'SLANG')",1
+"The concert last night was absolutely incredible, the energy in the crowd was next level - totally bussin experience.","('bussin', 'SLANG')",1
+"I just finished watching this new show on Netflix and it's seriously bussin, you gotta check it out.","('bussin', 'SLANG')",1
+Finna travel to Cali with my family - gonna be epic!,"('finna', 'SLANG')",1
+"Natalie drove all the way across town just to pick up Ryan from work, she's so simpin'.","('simpin', 'SLANG')",1
+Sophia keeps asking where I'll be this weekend but won't tell me why she wants to know - majorly sus behavior there!,"('sus', 'SLANG')",1
+That's straight-up simping behavior right there.,"('simping', 'SLANG')",1
+"I finally got to try sushi for the first time, and it was surprisingly bussin!","('bussin', 'SLANG')",1
+"My mom caught me sneaking in after getting really turnt at Jenny's house last night, it was awkward.","('turnt', 'SLANG')",1
+"I swear if John texts his crush Good morning beautiful one more time, he's the biggest simp ever.","('simp', 'SLANG')",1
+Are you finna study for that test or just wing it?,"('finna', 'SLANG')",1
+"I find it really suspicious how Elle always seems to know everyone's business - it's definitely kind of sus, don't you think?","('sus', 'SLANG')",1
+I think we should pace ourselves tonight so we don't get too turnt before midnight.,"('turnt', 'SLANG')",1
+The music at this club is making me want to dance like a fool when I'm already turnt.,"('turnt', 'SLANG')",1
+I just got a new skincare routine and my skin is looking bussin lately.,"('bussin', 'SLANG')",1
+Kevin got way too turnt and ended up dancing on a table at the bar.,"('turnt', 'SLANG')",1
+"Hey, I'm finna grab some food before class, you wanna come?","('finna', 'SLANG')",1
+"The party last weekend was crazy, the music was bussin all night long.","('bussin', 'SLANG')",1
+Remember when Mike tried to rap while he was turnt?,"('turnt', 'SLANG')",1
+"It's cool to be nice and all, but there's a fine line between being friendly and straight-up simping for someone who doesn't appreciate it.","('simping', 'SLANG')",1
+Totally sus.,"('sus', 'SLANG')",1
+It's definitely sus.,"('sus', 'SLANG')",1
+Their fries are bussin!,"('bussin', 'SLANG')",1
+Can't wait for summer break so we can all get turnt together every night!,"('turnt', 'SLANG')",1
+Her excuse for missing class again sounds hella sus to me.,"('sus', 'SLANG')",1
+"The weather has been so nice lately, we should go hiking or have a picnic soon.","[('None', 'None')]",0
+"I'm really looking forward to the school dance next week, it's going to be so much fun.","[('None', 'None')]",0
+Are you free this weekend?,"[('None', 'None')]",0
+We should grab some coffee and catch up.,"[('None', 'None')]",0
+"Ugh, why is math homework always so challenging for me?","[('None', 'None')]",0
+Have you heard about that new band everyone's talking about?,"[('None', 'None')]",0
+Their music is amazing!,"[('None', 'None')]",0
+Do you think we should plan a group study session for our history exam next week?,"[('None', 'None')]",0
+"I can't believe the math test is tomorrow, I've been studying all week.","[('None', 'None')]",0
+I really want to try it out this weekend.,"[('None', 'None')]",0
+"I'm so tired of all this homework, I just want to relax and watch some Netflix.","[('None', 'None')]",0
+Have you started thinking about where you want to go for spring break yet?,"[('None', 'None')]",0
+"The chemistry lab was so much fun today, even though my partner accidentally spilled acid everywhere.","[('None', 'None')]",0
+Do you think we should start a study group for the history final next month?,"[('None', 'None')]",0
+Have you seen the new trailer for that movie coming out next month?,"[('None', 'None')]",0
+"My parents are letting me have a small get-together this weekend while they're out of town, are you coming?","[('None', 'None')]",0
+Can we meet up at the library tomorrow after school to work on our English project together?,"[('None', 'None')]",0
+"Prom is only a few months away, time sure does fly by!","[('None', 'None')]",0
+"I can't believe we have a test in math tomorrow, I haven't even started studying yet.","[('None', 'None')]",0
+Did you hear about the new student that transferred to our school?,"[('None', 'None')]",0
+I heard they're from another country.,"[('None', 'None')]",0
+Are you going to the football game this Friday night?,"[('None', 'None')]",0
+It's supposed to be a big rivalry game.,"[('None', 'None')]",0
+"Ugh, my parents are making me get a part-time job during the summer break.","[('None', 'None')]",0
+I just want to relax and hang out with friends.,"[('None', 'None')]",0
+Have you decided which colleges you want to apply to?,"[('None', 'None')]",0
+The deadlines are coming up soon.,"[('None', 'None')]",0
+"This new restaurant in town has amazing food, we should definitely check it out this weekend.","[('None', 'None')]",0
+"I'm so tired of all this homework and studying, sometimes I wish we could just fast forward to graduation already.","[('None', 'None')]",0
+"My little sister keeps borrowing my clothes without asking, it's so annoying!","[('None', 'None')]",0
+Did you see that new movie that came out last week?,"[('None', 'None')]",0
+It got really good reviews online.,"[('None', 'None')]",0
+What do you think about the school dance next month?,"[('None', 'None')]",0
+Should we go together as a group or just go on our own?,"[('None', 'None')]",0
+"I can't believe the chemistry test is next week, I feel so unprepared.","[('None', 'None')]",0
+We need to check it out this weekend.,"[('None', 'None')]",0
+"I'm thinking about joining the track team this year, what do you guys think?","[('None', 'None')]",0
+Have you started on your college applications yet?,"[('None', 'None')]",0
+The deadlines are coming up fast.,"[('None', 'None')]",0
+"It's crazy how fast this school year is going by, feels like we just started yesterday.","[('None', 'None')]",0
+Can you believe how much homework our teachers are giving us lately?,"[('None', 'None')]",0
+It's never-ending!,"[('None', 'None')]",0
+"The math teacher explained that new concept so poorly, I have no idea what's going on in class now.","[('None', 'None')]",0
+Are you going to the football game Friday night?,"[('None', 'None')]",0
+It should be a good one against our rivals.,"[('None', 'None')]",0
+"I'm so excited for prom next month, I already picked out my dress and everything.","[('None', 'None')]",0
+Do any of you want to study together for the history test tomorrow?,"[('None', 'None')]",0
+We could help each other out with notes and review questions.,"[('None', 'None')]",0
+I can't believe the test got postponed to next week; it gives me more time to study.,"[('None', 'None')]",0
+Did you hear about that new restaurant that just opened up downtown?,"[('None', 'None')]",0
+I heard their burgers are amazing.,"[('None', 'None')]",0
+"I'm so over this drama between Sarah and Jessica, it's getting really old.","[('None', 'None')]",0
+The concert last night was so much fun; the band played all of my favorite songs.,"[('None', 'None')]",0
+Have you seen the trailer for the new Marvel movie coming out next month?,"[('None', 'None')]",0
+It looks epic.,"[('None', 'None')]",0
+"I spent all weekend binge-watching that new series on Netflix, and now I'm hooked.","[('None', 'None')]",0
+Are you going to Ashley's party this weekend?,"[('None', 'None')]",0
+It's supposed to be a blast.,"[('None', 'None')]",0
+My parents are finally letting me get a part-time job; now I can start saving up for a car.,"[('None', 'None')]",0
+"The weather lately has been so unpredictable; one minute it's sunny, and the next minute it's pouring rain.","[('None', 'None')]",0
+AddListener 1.,"[('None', 'None')]",0
+"Hey, did you watch the new movie that came out last weekend?","[('None', 'None')]",0
+I think I'm going to dye my hair a different color this summer - maybe something bold like pink or blue.,"[('None', 'None')]",0
+Are you going to the party on Friday night?,"[('None', 'None')]",0
+It's supposed to be epic.,"[('None', 'None')]",0
+"Ugh, I have so much homework to catch up on this weekend; why does school have to be so overwhelming sometimes?","[('None', 'None')]",0
+Have you started thinking about which colleges you're interested in applying to yet?,"[('None', 'None')]",0
+I can't believe how gorgeous the weather has been lately - perfect for hanging out at the park or beach.,"[('None', 'None')]",0
+Did you hear about that new restaurant opening up downtown?,"[('None', 'None')]",0
+We should definitely check it out soon.,"[('None', 'None')]",0
+What do you think of that new song by your favorite artist?,"[('None', 'None')]",0
+I've had it on repeat all day.,"[('None', 'None')]",0
+Do you want to join me for a workout at the gym tomorrow morning before class?,"[('None', 'None')]",0
+Let's plan a road trip for spring break next year; it would be so much fun exploring new places together!,"[('None', 'None')]",0
+"I can't believe our history project is due next week, we need to start working on it ASAP.","[('None', 'None')]",0
+Did you hear about the new student who transferred here?,"[('None', 'None')]",0
+I heard she's really cool and into photography.,"[('None', 'None')]",0
+Are you going to the football game on Friday night?,"[('None', 'None')]",0
+It's our school's biggest rivalry and I don't want to miss out.,"[('None', 'None')]",0
+"Math class is so challenging this year, I might need to get a tutor to help me keep up with the material.","[('None', 'None')]",0
+"Prom is coming up soon, do you have any ideas for what kind of dress you want to wear?","[('None', 'None')]",0
+"I'm thinking of joining the science club this year, they're doing some interesting experiments that sound fun.","[('None', 'None')]",0
+Have you started studying for the upcoming chemistry test?,"[('None', 'None')]",0
+I'm so nervous about it.,"[('None', 'None')]",0
+"The cafeteria lunch options are getting really boring, we should start bringing our own lunches from home instead.","[('None', 'None')]",0
+Do you want to go see that new movie that just came out this weekend?,"[('None', 'None')]",0
+It looks like it's going to be good!,"[('None', 'None')]",0
+Spring break is almost here - we should start planning our trip now before all the good deals are gone!,"[('None', 'None')]",0
+I can't believe the history teacher gave us two chapters to read over the weekend.,"[('None', 'None')]",0
+Did you see that new movie that just came out?,"[('None', 'None')]",0
+It got really good reviews.,"[('None', 'None')]",0
+"I have a calculus test next week, and I am already stressing out about it.","[('None', 'None')]",0
+My parents are making me get a part-time job this summer to save up for college tuition.,"[('None', 'None')]",0
+Have you heard about the new student who transferred here?,"[('None', 'None')]",0
+The basketball team is doing really well this season - they might even make it to playoffs.,"[('None', 'None')]",0
+"I'm thinking of starting a club at school for environmental activism, are you interested in joining?","[('None', 'None')]",0
+"Prom is coming up soon, and I still need to find a dress and figure out who to go with.","[('None', 'None')]",0
+The cafeteria food is getting worse every week - we should start bringing our own lunch from home instead.,"[('None', 'None')]",0
+"Ugh, my little brother keeps borrowing my clothes without asking - it's so annoying!","[('None', 'None')]",0
+Did you hear about the new drama club production?,"[('None', 'None')]",0
+I'm really stressing out about my math test tomorrow.,"[('None', 'None')]",0
+I should have studied more.,"[('None', 'None')]",0
+Have you tried the new sushi place that opened up downtown?,"[('None', 'None')]",0
+My parents are getting on my case about college applications already.,"[('None', 'None')]",0
+It's so overwhelming.,"[('None', 'None')]",0
+I can't believe we only have one more month of school left before summer break!,"[('None', 'None')]",0
+Did you see that viral TikTok video everyone is talking about?,"[('None', 'None')]",0
+It's hilarious.,"[('None', 'None')]",0
+Are you going to the football game this Friday night?,"[('None', 'None')]",0
+It should be a fun time.,"[('None', 'None')]",0
+I just finished binge-watching that new Netflix series everyone is raving about.,"[('None', 'None')]",0
+Do you think Mr. Johnson is assigning too much homework lately?,"[('None', 'None')]",0
+"I really need to start working on my history project, but Netflix keeps calling my name!","[('None', 'None')]",0
+"I can't believe the chemistry test got pushed back to next week - it gives us more time to study, but also stresses me out.","[('None', 'None')]",0
+Did you see that new show on Netflix?,"[('None', 'None')]",0
+"I binged the whole season in one night, it was so addicting.","[('None', 'None')]",0
+"I'm thinking about applying for that summer internship at the marketing agency downtown, it would be great experience for my resume.","[('None', 'None')]",0
+The cafeteria food is seriously lacking lately - we should start bringing our lunches from home to avoid the mystery meat.,"[('None', 'None')]",0
+"I have a huge crush on someone in my math class, but I'm too nervous to talk to them, what should I do?","[('None', 'None')]",0
+My parents are already pressuring me about college applications and what I want to major in - it's overwhelming.,"[('None', 'None')]",0
+Have you heard about that new band coming to town next month?,"[('None', 'None')]",0
+We should totally get tickets and go together.,"[('None', 'None')]",0
+"Ugh, my little brother keeps borrowing my clothes without asking and stretching them out - he's driving me crazy!","[('None', 'None')]",0
+"The weather has been so unpredictable lately; one day it's sunny and warm, then the next day it's pouring rain.","[('None', 'None')]",0
+Do you think we should organize a study group for finals next month?,"[('None', 'None')]",0
+It could help us all stay on track and ace our exams.,"[('None', 'None')]",0
+Did you see that new Spider-Man movie?,"[('None', 'None')]",0
+It was insane!,"[('None', 'None')]",0
+"I have so much homework to do tonight, I don't even know where to start.","[('None', 'None')]",0
+"I cannot wait for summer break, I need a vacation ASAP.","[('None', 'None')]",0
+Have you heard the new album by Taylor Swift?,"[('None', 'None')]",0
+It's actually really good.,"[('None', 'None')]",0
+"I'm planning on applying to a few colleges out of state, I'm ready for a change of scenery.","[('None', 'None')]",0
+Are you going to the football game this Friday?,"[('None', 'None')]",0
+It should be a good one!,"[('None', 'None')]",0
+Why is math so difficult this year?,"[('None', 'None')]",0
+I feel like it's getting harder and harder.,"[('None', 'None')]",0
+"My parents are on my case about cleaning my room again... ugh, it never ends.","[('None', 'None')]",0
+"I joined the environmental club at school, we're working on some cool initiatives for Earth Day. 10.","[('None', 'None')]",0
+Who's up for a study session at Starbucks before our history test tomorrow?,"[('None', 'None')]",0
+Did you hear that we have a surprise test in math tomorrow?,"[('None', 'None')]",0
+I can't believe how fast this school year is going by.,"[('None', 'None')]",0
+"I'm so tired of all these college applications, it's stressing me out.","[('None', 'None')]",0
+Have you seen the new trailer for that movie everyone's talking about?,"[('None', 'None')]",0
+"I'm counting down the days until winter break, I need some time off.","[('None', 'None')]",0
+Do you think Ms. Smith will curve our grades on this next exam?,"[('None', 'None')]",0
+The cafeteria food is seriously lacking in options lately.,"[('None', 'None')]",0
+"The aroma of freshly baked cookies wafted through the kitchen, tempting everyone in the house.","[('None', 'None')]",0
+"Lost in thought, she absentmindedly wandered through the vibrant city streets, marveling at the eclectic architecture.","[('None', 'None')]",0
+"The old bookstore, with its creaky wooden floors and shelves filled with dusty volumes, held an undeniable charm for bibliophiles.","[('None', 'None')]",0
